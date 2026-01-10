@@ -1,0 +1,1529 @@
+words:
+  # das Obst (Fruit)
+  - source: der Apfel
+    target: apple
+    categories: [fruit]
+    gender: masculine
+
+  - source: die Orange
+    target: orange
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Birne
+    target: pear
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Pflaume
+    target: plum
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Banane
+    target: banana
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Feige
+    target: fig
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Ananas
+    target: pineapple
+    categories: [fruit]
+    gender: feminine
+
+  - source: der Pfirsich
+    target: peach
+    categories: [fruit]
+    gender: masculine
+
+  - source: die Wassermelone
+    target: watermelon
+    categories: [fruit]
+    gender: feminine
+
+  - source: die Zitrone
+    target: lemon
+    categories: [fruit]
+    gender: feminine
+
+  - source: der Granatapfel
+    target: pomegranate
+    categories: [fruit]
+    gender: masculine
+
+  - source: die Erdbeere
+    target: strawberry
+    categories: [fruit]
+    gender: feminine
+
+  # das Gemüse (Vegetables)
+  - source: der Blumenkohl
+    target: cauliflower
+    categories: [vegetables]
+    gender: masculine
+
+  - source: der Kopfsalat
+    target: lettuce
+    categories: [vegetables]
+    gender: masculine
+
+  - source: der Mais
+    target: corn
+    categories: [vegetables]
+    gender: masculine
+
+  - source: die Gurke
+    target: cucumber
+    categories: [vegetables]
+    gender: feminine
+
+  - source: die Zwiebel
+    target: onion
+    categories: [vegetables]
+    gender: feminine
+
+  - source: die Avocado
+    target: avocado
+    categories: [vegetables]
+    gender: feminine
+
+  - source: die Kartoffel
+    target: potato
+    categories: [vegetables, food]
+    gender: feminine
+    notes: Common ingredient in German cuisine
+
+  - source: der Brokkoli
+    target: broccoli
+    categories: [vegetables]
+    gender: masculine
+
+  - source: der Kürbis
+    target: pumpkin
+    categories: [vegetables]
+    gender: masculine
+
+  - source: der Lauch
+    target: leek
+    categories: [vegetables]
+    gender: masculine
+
+  - source: die Artischocke
+    target: artichoke
+    categories: [vegetables]
+    gender: feminine
+
+  - source: die Karotte
+    target: carrot
+    categories: [vegetables]
+    gender: feminine
+
+  # Afrikanische Tiere (African Animals)
+  - source: der Löwe
+    target: lion
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Löwen
+
+  - source: der Elefant
+    target: elephant
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Elefanten
+
+  - source: das Zebra
+    target: zebra
+    categories: [african_animals, wild_animals]
+    gender: neuter
+    plural: die Zebras
+
+  - source: der Affe
+    target: monkey
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Affen
+
+  - source: das Nashorn
+    target: rhino
+    categories: [african_animals, wild_animals]
+    gender: neuter
+    plural: die Nashörner
+
+  - source: die Antilope
+    target: antelope
+    categories: [african_animals, wild_animals]
+    gender: feminine
+    plural: die Antilopen
+
+  - source: der Gepard
+    target: cheetah
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Geparde
+
+  - source: der Pavian
+    target: baboon
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Paviane
+
+  - source: der Gorilla
+    target: gorilla
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Gorillas
+
+  - source: der Panther
+    target: panther
+    categories: [african_animals, wild_animals]
+    gender: masculine
+    plural: die Panther
+
+  - source: das Flusspferd
+    target: hippopotamus
+    categories: [african_animals, wild_animals]
+    gender: neuter
+    plural: die Flusspferde
+
+  - source: die Giraffe
+    target: giraffe
+    categories: [african_animals, wild_animals]
+    gender: feminine
+    plural: die Giraffen
+
+  # die Fahrzeuge (Vehicles)
+  - source: das Auto
+    target: car
+    categories: [vehicles, transportation]
+    gender: neuter
+    plural: die Autos
+
+  - source: das Taxi
+    target: taxi
+    categories: [vehicles, transportation, travel, city]
+    gender: neuter
+    plural: die Taxis
+    notes: Found in both vehicles and travel contexts
+
+  - source: der Lieferwagen
+    target: delivery truck
+    categories: [vehicles, work_vehicles]
+    gender: masculine
+    plural: die Lieferwagen
+
+  - source: der Kleinbus
+    target: van
+    categories: [vehicles, transportation]
+    gender: masculine
+    plural: die Kleinbusse
+
+  - source: der Bus
+    target: bus
+    categories: [vehicles, transportation, travel, public_transport]
+    gender: masculine
+    plural: die Busse
+    notes: Common public transportation
+
+  - source: der Schulbus
+    target: school bus
+    categories: [vehicles, education]
+    gender: masculine
+    plural: die Schulbusse
+
+  - source: das Wohnmobil
+    target: camper
+    categories: [vehicles, travel]
+    gender: neuter
+    plural: die Wohnmobile
+
+  - source: das Motorrad
+    target: motorcycle
+    categories: [vehicles, transportation]
+    gender: neuter
+    plural: die Motorräder
+
+  - source: das Feuerwehrauto
+    target: fire truck
+    categories: [vehicles, emergency, work_vehicles]
+    gender: neuter
+    plural: die Feuerwehrautos
+
+  - source: der Krankenwagen
+    target: ambulance
+    categories: [vehicles, emergency, medical, work_vehicles]
+    gender: masculine
+    plural: die Krankenwagen
+
+  - source: der Traktor
+    target: tractor
+    categories: [vehicles, farm, work_vehicles]
+    gender: masculine
+    plural: die Traktoren
+
+  - source: das Fahrrad
+    target: bicycle
+    categories: [vehicles, transportation, sports]
+    gender: neuter
+    plural: die Fahrräder
+
+  # das Mittagessen (Lunch)
+  - source: der Salat
+    target: salad
+    categories: [food, lunch, healthy]
+    gender: masculine
+    plural: die Salate
+
+  - source: das Kartoffelpüree
+    target: mashed potatoes
+    categories: [food, lunch]
+    gender: neuter
+    plural: die Kartoffelpürees
+
+  - source: die Pommes
+    target: french fries
+    categories: [food, lunch, fast_food]
+    gender: feminine
+    notes: Always plural in German
+
+  - source: das Rindfleisch
+    target: beef
+    categories: [food, meat, lunch]
+    gender: neuter
+    notes: Uncountable noun
+
+  - source: das Hähnchen
+    target: chicken
+    categories: [food, meat, lunch]
+    gender: neuter
+    plural: die Hähnchen
+
+  - source: der Fisch
+    target: fish
+    categories: [food, meat, lunch, sea_animals]
+    gender: masculine
+    plural: die Fische
+    notes: Can refer to animal or food depending on context
+
+  - source: das Kotelett
+    target: cutlet
+    categories: [food, meat, lunch]
+    gender: neuter
+    plural: die Koteletts
+
+  - source: der Reis
+    target: rice
+    categories: [food, lunch, grains]
+    gender: masculine
+    notes: Uncountable noun
+
+  - source: die Nudeln
+    target: pasta
+    categories: [food, lunch]
+    gender: feminine
+    notes: Always plural
+
+  - source: die Brezel
+    target: pretzel
+    categories: [food, snack, german_specialty]
+    gender: feminine
+    plural: die Brezeln
+
+  - source: die Suppe
+    target: soup
+    categories: [food, lunch]
+    gender: feminine
+    plural: die Suppen
+
+  - source: der Hamburger
+    target: hamburger
+    categories: [food, fast_food, lunch]
+    gender: masculine
+    plural: die Hamburger
+
+  # die Meerestiere (Sea Animals)
+  - source: der Krebs
+    target: crab
+    categories: [sea_animals, food]
+    gender: masculine
+    plural: die Krebse
+    notes: Also eaten as seafood
+
+  - source: der Hai
+    target: shark
+    categories: [sea_animals, dangerous_animals]
+    gender: masculine
+    plural: die Haie
+
+  - source: der Delfin
+    target: dolphin
+    categories: [sea_animals, intelligent_animals]
+    gender: masculine
+    plural: die Delfine
+
+  - source: der Wal
+    target: whale
+    categories: [sea_animals, large_animals]
+    gender: masculine
+    plural: die Wale
+
+  - source: der Oktopus
+    target: octopus
+    categories: [sea_animals, food]
+    gender: masculine
+    plural: die Oktopusse
+
+  - source: der Tintenfisch
+    target: squid
+    categories: [sea_animals, food]
+    gender: masculine
+    plural: die Tintenfische
+
+  - source: die Qualle
+    target: jellyfish
+    categories: [sea_animals, dangerous_animals]
+    gender: feminine
+    plural: die Quallen
+
+  - source: der Seehund
+    target: seal
+    categories: [sea_animals]
+    gender: masculine
+    plural: die Seehunde
+
+  - source: der Seelöwe
+    target: sea lion
+    categories: [sea_animals]
+    gender: masculine
+    plural: die Seelöwen
+
+  - source: das Seepferdchen
+    target: sea horse
+    categories: [sea_animals, small_animals]
+    gender: neuter
+    plural: die Seepferdchen
+
+  - source: der Aal
+    target: eel
+    categories: [sea_animals, food]
+    gender: masculine
+    plural: die Aale
+
+  # das Hotel (Hotel)
+  - source: die Empfangsdame
+    target: receptionist
+    categories: [hotel, professions]
+    gender: feminine
+    plural: die Empfangsdamen
+    notes: Female receptionist
+
+  - source: der Empfangschef
+    target: receptionist
+    categories: [hotel, professions]
+    gender: masculine
+    plural: die Empfangschefs
+    notes: Male receptionist
+
+  - source: die Rezeption
+    target: reception
+    categories: [hotel, travel]
+    gender: feminine
+    plural: die Rezeptionen
+    notes: Found in hotels and travel contexts
+
+  - source: das Doppelzimmer
+    target: double room
+    categories: [hotel, accommodation]
+    gender: neuter
+    plural: die Doppelzimmer
+
+  - source: das Einzelzimmer
+    target: single room
+    categories: [hotel, accommodation]
+    gender: neuter
+    plural: die Einzelzimmer
+
+  - source: das Zweibettzimmer
+    target: twin room
+    categories: [hotel, accommodation]
+    gender: neuter
+    plural: die Zweibettzimmer
+
+  - source: das Zimmermädchen
+    target: maid
+    categories: [hotel, professions]
+    gender: neuter
+    plural: die Zimmermädchen
+
+  - source: das Gepäck
+    target: luggage
+    categories: [hotel, travel]
+    gender: neuter
+    notes: Uncountable, found in both hotel and travel contexts
+
+  - source: der Aufzug
+    target: elevator
+    categories: [hotel, building, technology]
+    gender: masculine
+    plural: die Aufzüge
+
+  - source: der Zimmerservice
+    target: room service
+    categories: [hotel, service]
+    gender: masculine
+    notes: Uncountable
+
+  - source: der Hotelpage
+    target: bellhop
+    categories: [hotel, professions]
+    gender: masculine
+    plural: die Hotelpagen
+
+  - source: der Zimmerschlüssel
+    target: room key
+    categories: [hotel, objects]
+    gender: masculine
+    plural: die Zimmerschlüssel
+
+  # das Spielzeug (Toys)
+  - source: die Puppe
+    target: doll
+    categories: [toys, children]
+    gender: feminine
+    plural: die Puppen
+
+  - source: das Puppenhaus
+    target: dollhouse
+    categories: [toys, children]
+    gender: neuter
+    plural: die Puppenhäuser
+
+  - source: das Spielzeugauto
+    target: toy car
+    categories: [toys, children, vehicles]
+    gender: neuter
+    plural: die Spielzeugautos
+
+  - source: der Spielzeuglastwagen
+    target: toy truck
+    categories: [toys, children, vehicles]
+    gender: masculine
+    plural: die Spielzeuglastwagen
+
+  - source: der Bauklotz
+    target: building block
+    categories: [toys, children, educational]
+    gender: masculine
+    plural: die Bauklötze
+
+  - source: das Springseil
+    target: skipping rope
+    categories: [toys, sports, children]
+    gender: neuter
+    plural: die Springseile
+
+  - source: der Ball
+    target: ball
+    categories: [toys, sports, children]
+    gender: masculine
+    plural: die Bälle
+
+  - source: der Teddybär
+    target: teddy bear
+    categories: [toys, children]
+    gender: masculine
+    plural: die Teddybären
+
+  - source: der Hula-Hoop-Reifen
+    target: hula hoop
+    categories: [toys, sports, children]
+    gender: masculine
+    plural: die Hula-Hoop-Reifen
+
+  - source: der Wachsmalstift
+    target: wax crayon
+    categories: [toys, art, children, school]
+    gender: masculine
+    plural: die Wachsmalstifte
+
+  - source: das Jojo
+    target: yo-yo
+    categories: [toys, children]
+    gender: neuter
+    plural: die Jojos
+
+  - source: das Kuscheltier
+    target: stuffed animal
+    categories: [toys, children]
+    gender: neuter
+    plural: die Kuscheltiere
+
+  # das Frühstück (Breakfast)
+  - source: die Milch
+    target: milk
+    categories: [breakfast, drinks, dairy]
+    gender: feminine
+    notes: Uncountable
+
+  - source: der Käse
+    target: cheese
+    categories: [breakfast, dairy, food]
+    gender: masculine
+    notes: Uncountable
+
+  - source: das Spiegelei
+    target: fried egg
+    categories: [breakfast, food]
+    gender: neuter
+    plural: die Spiegeleier
+
+  - source: die Wurst
+    target: sausage
+    categories: [breakfast, meat, food]
+    gender: feminine
+    plural: die Würste
+
+  - source: die Butter
+    target: butter
+    categories: [breakfast, dairy, food]
+    gender: feminine
+    notes: Uncountable
+
+  - source: der Joghurt
+    target: yogurt
+    categories: [breakfast, dairy, food]
+    gender: masculine
+    plural: die Joghurts
+
+  - source: die Marmelade
+    target: jam
+    categories: [breakfast, food, sweet]
+    gender: feminine
+    plural: die Marmeladen
+
+  - source: der Schinken
+    target: ham
+    categories: [breakfast, meat, food]
+    gender: masculine
+    plural: die Schinken
+
+  - source: das Brötchen
+    target: bread roll
+    categories: [breakfast, bread, food]
+    gender: neuter
+    plural: die Brötchen
+
+  - source: das Weißbrot
+    target: white bread
+    categories: [breakfast, bread, food]
+    gender: neuter
+    plural: die Weißbrote
+
+  - source: der Kaffee
+    target: coffee
+    categories: [breakfast, drinks, hot_drinks]
+    gender: masculine
+    plural: die Kaffees
+
+  - source: der Tee
+    target: tea
+    categories: [breakfast, drinks, hot_drinks]
+    gender: masculine
+    plural: die Tees
+
+  # der Garten (Garden)
+  - source: das Gras
+    target: grass
+    categories: [garden, nature]
+    gender: neuter
+    plural: die Gräser
+
+  - source: der Baum
+    target: tree
+    categories: [garden, nature]
+    gender: masculine
+    plural: die Bäume
+
+  - source: die Blume
+    target: flower
+    categories: [garden, nature, beauty]
+    gender: feminine
+    plural: die Blumen
+
+  - source: die Erde
+    target: dirt
+    categories: [garden, nature]
+    gender: feminine
+    plural: die Erden
+    notes: Rarely used in plural
+
+  - source: der Samen
+    target: seed
+    categories: [garden, nature, plants]
+    gender: masculine
+    plural: die Samen
+
+  - source: der Blumentopf
+    target: plant pot
+    categories: [garden, containers]
+    gender: masculine
+    plural: die Blumentöpfe
+
+  - source: die Gießkanne
+    target: watering can
+    categories: [garden, tools]
+    gender: feminine
+    plural: die Gießkannen
+
+  - source: die Schubkarre
+    target: wheelbarrow
+    categories: [garden, tools]
+    gender: feminine
+    plural: die Schubkarren
+
+  - source: der Schlauch
+    target: hose
+    categories: [garden, tools]
+    gender: masculine
+    plural: die Schläuche
+
+  - source: der Gartenzwerg
+    target: garden gnome
+    categories: [garden, decoration]
+    gender: masculine
+    plural: die Gartenzwerge
+
+  - source: der Rasenmäher
+    target: lawn mower
+    categories: [garden, tools, machines]
+    gender: masculine
+    plural: die Rasenmäher
+
+  - source: der Eimer
+    target: bucket
+    categories: [garden, tools, containers]
+    gender: masculine
+    plural: die Eimer
+
+  # In der Stadt (In the City)
+  - source: die Fleischerei
+    target: butcher shop
+    categories: [city, shops, food]
+    gender: feminine
+    plural: die Fleischereien
+
+  - source: die Drogerie
+    target: drug store
+    categories: [city, shops, health]
+    gender: feminine
+    plural: die Drogerien
+
+  - source: der Buchladen
+    target: bookstore
+    categories: [city, shops, books]
+    gender: masculine
+    plural: die Buchläden
+
+  - source: das Café
+    target: coffee shop
+    categories: [city, restaurants, drinks]
+    gender: neuter
+    plural: die Cafés
+
+  - source: das Theater
+    target: theater
+    categories: [city, culture, entertainment]
+    gender: neuter
+    plural: die Theater
+
+  - source: die Reinigung
+    target: dry cleaner
+    categories: [city, services]
+    gender: feminine
+    plural: die Reinigungen
+
+  - source: der Blumenladen
+    target: flower shop
+    categories: [city, shops, nature]
+    gender: masculine
+    plural: die Blumenläden
+
+  - source: das Postamt
+    target: post office
+    categories: [city, services, communication]
+    gender: neuter
+    plural: die Postämter
+
+  - source: die U-Bahn-Station
+    target: subway station
+    categories: [city, transportation, public_transport]
+    gender: feminine
+    plural: die U-Bahn-Stationen
+
+  - source: das Parkhaus
+    target: parking garage
+    categories: [city, buildings, vehicles]
+    gender: neuter
+    plural: die Parkhäuser
+
+  - source: das Stadion
+    target: stadium
+    categories: [city, sports, entertainment]
+    gender: neuter
+    plural: die Stadien
+
+  - source: die Kirche
+    target: church
+    categories: [city, religion, buildings]
+    gender: feminine
+    plural: die Kirchen
+
+  # die Arbeit (Work)
+  - source: das Unternehmen
+    target: company
+    categories: [work, business]
+    gender: neuter
+    plural: die Unternehmen
+
+  - source: der Chef
+    target: boss
+    categories: [work, professions, management]
+    gender: masculine
+    plural: die Chefs
+    notes: Male boss
+
+  - source: die Chefin
+    target: boss
+    categories: [work, professions, management]
+    gender: feminine
+    plural: die Chefinnen
+    notes: Female boss
+
+  - source: das Geld
+    target: money
+    categories: [work, finance]
+    gender: neuter
+    plural: die Gelder
+    notes: Rarely used in plural
+
+  - source: das Gehalt
+    target: salary
+    categories: [work, finance]
+    gender: neuter
+    plural: die Gehälter
+
+  - source: der Brief
+    target: letter
+    categories: [work, communication, office]
+    gender: masculine
+    plural: die Briefe
+
+  - source: der Anruf
+    target: call
+    categories: [work, communication]
+    gender: masculine
+    plural: die Anrufe
+
+  - source: der Vertrag
+    target: contract
+    categories: [work, legal, business]
+    gender: masculine
+    plural: die Verträge
+
+  - source: der Lebenslauf
+    target: resume
+    categories: [work, job_search]
+    gender: masculine
+    plural: die Lebensläufe
+
+  - source: der Kollege
+    target: colleague
+    categories: [work, people]
+    gender: masculine
+    plural: die Kollegen
+    notes: Male colleague
+
+  - source: die Kollegin
+    target: colleague
+    categories: [work, people]
+    gender: feminine
+    plural: die Kolleginnen
+    notes: Female colleague
+
+  - source: der Drucker
+    target: printer
+    categories: [work, office, technology]
+    gender: masculine
+    plural: die Drucker
+
+  # die Berufe (Professions)
+  - source: die Ärztin
+    target: physician
+    categories: [professions, medical, health]
+    gender: feminine
+    plural: die Ärztinnen
+    notes: Female doctor
+
+  - source: der Arzt
+    target: physician
+    categories: [professions, medical, health]
+    gender: masculine
+    plural: die Ärzte
+    notes: Male doctor
+
+  - source: die Feuerwehrfrau
+    target: firefighter
+    categories: [professions, emergency, safety]
+    gender: feminine
+    plural: die Feuerwehrfrauen
+    notes: Female firefighter
+
+  - source: der Feuerwehrmann
+    target: firefighter
+    categories: [professions, emergency, safety]
+    gender: masculine
+    plural: die Feuerwehrmänner
+    notes: Male firefighter
+
+  - source: die Krankenschwester
+    target: nurse
+    categories: [professions, medical, health]
+    gender: feminine
+    plural: die Krankenschwestern
+    notes: Female nurse
+
+  - source: der Krankenpfleger
+    target: nurse
+    categories: [professions, medical, health]
+    gender: masculine
+    plural: die Krankenpfleger
+    notes: Male nurse
+
+  - source: die Ingenieurin
+    target: engineer
+    categories: [professions, technology, science]
+    gender: feminine
+    plural: die Ingenieurinnen
+    notes: Female engineer
+
+  - source: der Ingenieur
+    target: engineer
+    categories: [professions, technology, science]
+    gender: masculine
+    plural: die Ingenieure
+    notes: Male engineer
+
+  - source: die Pilotin
+    target: pilot
+    categories: [professions, aviation, transportation]
+    gender: feminine
+    plural: die Pilotinnen
+    notes: Female pilot
+
+  - source: der Pilot
+    target: pilot
+    categories: [professions, aviation, transportation]
+    gender: masculine
+    plural: die Piloten
+    notes: Male pilot
+
+  - source: die Lehrerin
+    target: teacher
+    categories: [professions, education]
+    gender: feminine
+    plural: die Lehrerinnen
+    notes: Female teacher
+
+  - source: der Lehrer
+    target: teacher
+    categories: [professions, education]
+    gender: masculine
+    plural: die Lehrer
+    notes: Male teacher
+
+  # Tiere auf dem Bauernhof (Farm Animals)
+  - source: die Henne
+    target: hen
+    categories: [farm_animals, birds, food]
+    gender: feminine
+    plural: die Hennen
+
+  - source: der Hahn
+    target: rooster
+    categories: [farm_animals, birds]
+    gender: masculine
+    plural: die Hähne
+
+  - source: das Küken
+    target: chick
+    categories: [farm_animals, birds, baby_animals]
+    gender: neuter
+    plural: die Küken
+
+  - source: der Truthahn
+    target: turkey
+    categories: [farm_animals, birds, food]
+    gender: masculine
+    plural: die Truthähne
+
+  - source: die Kuh
+    target: cow
+    categories: [farm_animals, mammals, dairy]
+    gender: feminine
+    plural: die Kühe
+
+  - source: das Schwein
+    target: pig
+    categories: [farm_animals, mammals, meat]
+    gender: neuter
+    plural: die Schweine
+
+  - source: das Schaf
+    target: sheep
+    categories: [farm_animals, mammals, wool]
+    gender: neuter
+    plural: die Schafe
+
+  - source: die Ziege
+    target: goat
+    categories: [farm_animals, mammals]
+    gender: feminine
+    plural: die Ziegen
+
+  - source: der Esel
+    target: donkey
+    categories: [farm_animals, mammals, work_animals]
+    gender: masculine
+    plural: die Esel
+
+  - source: das Pferd
+    target: horse
+    categories: [farm_animals, mammals, sports, work_animals]
+    gender: neuter
+    plural: die Pferde
+
+  - source: die Ente
+    target: duck
+    categories: [farm_animals, birds, water_animals]
+    gender: feminine
+    plural: die Enten
+
+  - source: die Gans
+    target: goose
+    categories: [farm_animals, birds]
+    gender: feminine
+    plural: die Gänse
+
+  # die Kleidung (Clothing)
+  - source: die Hose
+    target: pants
+    categories: [clothing, everyday]
+    gender: feminine
+    plural: die Hosen
+
+  - source: das T-Shirt
+    target: t-shirt
+    categories: [clothing, casual]
+    gender: neuter
+    plural: die T-Shirts
+
+  - source: die kurze Hose
+    target: shorts
+    categories: [clothing, summer]
+    gender: feminine
+    plural: die kurzen Hosen
+
+  - source: der Rock
+    target: skirt
+    categories: [clothing, women]
+    gender: masculine
+    plural: die Röcke
+
+  - source: die Jacke
+    target: jacket
+    categories: [clothing, outerwear]
+    gender: feminine
+    plural: die Jacken
+
+  - source: der Mantel
+    target: coat
+    categories: [clothing, outerwear, winter]
+    gender: masculine
+    plural: die Mäntel
+
+  - source: das Hemd
+    target: shirt
+    categories: [clothing, formal]
+    gender: neuter
+    plural: die Hemden
+
+  - source: der Pullover
+    target: sweater
+    categories: [clothing, winter]
+    gender: masculine
+    plural: die Pullover
+
+  - source: das Kleid
+    target: dress
+    categories: [clothing, women, formal]
+    gender: neuter
+    plural: die Kleider
+
+  - source: die Schuhe
+    target: shoes
+    categories: [clothing, footwear]
+    gender: masculine
+    plural: die Schuhe
+    notes: Usually used in plural
+
+  - source: die Absatzschuhe
+    target: high heels
+    categories: [clothing, footwear, women]
+    gender: masculine
+    plural: die Absatzschuhe
+
+  - source: die Stiefel
+    target: boots
+    categories: [clothing, footwear, winter]
+    gender: masculine
+    plural: die Stiefel
+
+  # das Restaurant (Restaurant)
+  - source: der Tisch
+    target: table
+    categories: [restaurant, furniture]
+    gender: masculine
+    plural: die Tische
+
+  - source: die Speisekarte
+    target: menu
+    categories: [restaurant, food]
+    gender: feminine
+    plural: die Speisekarten
+
+  - source: der Teller
+    target: plate
+    categories: [restaurant, dishes, kitchen]
+    gender: masculine
+    plural: die Teller
+
+  - source: das Besteck
+    target: cutlery
+    categories: [restaurant, kitchen, tools]
+    gender: neuter
+    notes: Collective noun
+
+  - source: der Löffel
+    target: spoon
+    categories: [restaurant, cutlery, kitchen]
+    gender: masculine
+    plural: die Löffel
+
+  - source: die Gabel
+    target: fork
+    categories: [restaurant, cutlery, kitchen]
+    gender: feminine
+    plural: die Gabeln
+
+  - source: das Messer
+    target: knife
+    categories: [restaurant, cutlery, kitchen, tools]
+    gender: neuter
+    plural: die Messer
+
+  - source: das Glas
+    target: glass
+    categories: [restaurant, drinks, containers]
+    gender: neuter
+    plural: die Gläser
+
+  - source: der Kellner
+    target: waiter
+    categories: [restaurant, professions, service]
+    gender: masculine
+    plural: die Kellner
+    notes: Male waiter
+
+  - source: die Kellnerin
+    target: waitress
+    categories: [restaurant, professions, service]
+    gender: feminine
+    plural: die Kellnerinnen
+    notes: Female waiter
+
+  - source: der Koch
+    target: cook
+    categories: [restaurant, professions, kitchen]
+    gender: masculine
+    plural: die Köche
+    notes: Male cook
+
+  - source: die Köchin
+    target: cook
+    categories: [restaurant, professions, kitchen]
+    gender: feminine
+    plural: die Köchinnen
+    notes: Female cook
+
+  # die Haustiere (Pets)
+  - source: der Hund
+    target: dog
+    categories: [pets, mammals, loyal_animals]
+    gender: masculine
+    plural: die Hunde
+
+  - source: die Katze
+    target: cat
+    categories: [pets, mammals, independent_animals]
+    gender: feminine
+    plural: die Katzen
+
+  - source: der Hamster
+    target: hamster
+    categories: [pets, small_animals, rodents]
+    gender: masculine
+    plural: die Hamster
+
+  - source: das Meerschweinchen
+    target: guinea pig
+    categories: [pets, small_animals, rodents]
+    gender: neuter
+    plural: die Meerschweinchen
+
+  - source: das Kaninchen
+    target: rabbit
+    categories: [pets, mammals, cute_animals]
+    gender: neuter
+    plural: die Kaninchen
+
+  - source: die Schlange
+    target: snake
+    categories: [pets, reptiles, exotic_pets]
+    gender: feminine
+    plural: die Schlangen
+
+  - source: der Goldfisch
+    target: goldfish
+    categories: [pets, fish, aquatic_pets]
+    gender: masculine
+    plural: die Goldfische
+
+  - source: die Maus
+    target: mouse
+    categories: [pets, small_animals, rodents]
+    gender: feminine
+    plural: die Mäuse
+
+  - source: der Wellensittich
+    target: budgie
+    categories: [pets, birds]
+    gender: masculine
+    plural: die Wellensittiche
+
+  - source: die Schildkröte
+    target: turtle
+    categories: [pets, reptiles, slow_animals]
+    gender: feminine
+    plural: die Schildkröten
+
+  - source: der Gecko
+    target: gecko
+    categories: [pets, reptiles, exotic_pets]
+    gender: masculine
+    plural: die Geckos
+
+  - source: der Papagei
+    target: parrot
+    categories: [pets, birds, talking_animals]
+    gender: masculine
+    plural: die Papageien
+
+  # das Werkzeug (Tools)
+  - source: der Hammer
+    target: hammer
+    categories: [tools, construction, work]
+    gender: masculine
+    plural: die Hämmer
+
+  - source: die Säge
+    target: saw
+    categories: [tools, construction, cutting]
+    gender: feminine
+    plural: die Sägen
+
+  - source: der Schraubenzieher
+    target: screwdriver
+    categories: [tools, construction, repair]
+    gender: masculine
+    plural: die Schraubenzieher
+
+  - source: die Zange
+    target: pliers
+    categories: [tools, construction, repair]
+    gender: feminine
+    plural: die Zangen
+
+  - source: der Nagel
+    target: nail
+    categories: [tools, construction, fasteners]
+    gender: masculine
+    plural: die Nägel
+
+  - source: die Schraube
+    target: screw
+    categories: [tools, construction, fasteners]
+    gender: feminine
+    plural: die Schrauben
+
+  - source: die Mutter
+    target: nut
+    categories: [tools, construction, fasteners]
+    gender: feminine
+    plural: die Muttern
+    notes: Also means mother in different context
+
+  - source: der Schraubenschlüssel
+    target: wrench
+    categories: [tools, construction, repair]
+    gender: masculine
+    plural: die Schraubenschlüssel
+
+  - source: das Seil
+    target: rope
+    categories: [tools, climbing, binding]
+    gender: neuter
+    plural: die Seile
+
+  - source: die Wasserwaage
+    target: level
+    categories: [tools, construction, measuring]
+    gender: feminine
+    plural: die Wasserwaagen
+
+  - source: die Bohrmaschine
+    target: drill
+    categories: [tools, construction, power_tools]
+    gender: feminine
+    plural: die Bohrmaschinen
+
+  - source: das Maßband
+    target: tape measure
+    categories: [tools, measuring, construction]
+    gender: neuter
+    plural: die Maßbänder
+
+  # die Musikinstrumente (Musical Instruments)
+  - source: die Gitarre
+    target: guitar
+    categories: [music_instruments, string_instruments]
+    gender: feminine
+    plural: die Gitarren
+
+  - source: die E-Gitarre
+    target: electric guitar
+    categories: [music_instruments, string_instruments, electric]
+    gender: feminine
+    plural: die E-Gitarren
+
+  - source: die Violine
+    target: violin
+    categories: [music_instruments, string_instruments, classical]
+    gender: feminine
+    plural: die Violinen
+
+  - source: die Klarinette
+    target: clarinet
+    categories: [music_instruments, wind_instruments, woodwind]
+    gender: feminine
+    plural: die Klarinetten
+
+  - source: die Flöte
+    target: flute
+    categories: [music_instruments, wind_instruments, woodwind]
+    gender: feminine
+    plural: die Flöten
+
+  - source: das Horn
+    target: french horn
+    categories: [music_instruments, wind_instruments, brass]
+    gender: neuter
+    plural: die Hörner
+
+  - source: das Fagott
+    target: bassoon
+    categories: [music_instruments, wind_instruments, woodwind]
+    gender: neuter
+    plural: die Fagotte
+
+  - source: das Saxophon
+    target: saxophone
+    categories: [music_instruments, wind_instruments, woodwind, jazz]
+    gender: neuter
+    plural: die Saxophone
+
+  - source: die Tuba
+    target: tuba
+    categories: [music_instruments, wind_instruments, brass]
+    gender: feminine
+    plural: die Tubas
+
+  - source: die Trommel
+    target: drum
+    categories: [music_instruments, percussion]
+    gender: feminine
+    plural: die Trommeln
+
+  - source: der Flügel
+    target: grand piano
+    categories: [music_instruments, keyboard, classical]
+    gender: masculine
+    plural: die Flügel
+    notes: Also means wing in different context
+
+  - source: die Harfe
+    target: harp
+    categories: [music_instruments, string_instruments, classical]
+    gender: feminine
+    plural: die Harfen
+
+  # das Reisen (Travel)
+  - source: das Flugzeug
+    target: plane
+    categories: [travel, transportation, aviation]
+    gender: neuter
+    plural: die Flugzeuge
+
+  - source: das Schiff
+    target: ship
+    categories: [travel, transportation, water_transport]
+    gender: neuter
+    plural: die Schiffe
+
+  - source: der Flughafen
+    target: airport
+    categories: [travel, aviation, buildings]
+    gender: masculine
+    plural: die Flughäfen
+
+  - source: das Hotel
+    target: hotel
+    categories: [travel, accommodation]
+    gender: neuter
+    plural: die Hotels
+    notes: Also main category for hotel-related vocabulary
+
+  - source: der Busbahnhof
+    target: bus station
+    categories: [travel, transportation, public_transport]
+    gender: masculine
+    plural: die Busbahnhöfe
+
+  - source: das Handgepäck
+    target: carry on
+    categories: [travel, aviation, luggage]
+    gender: neuter
+    notes: Uncountable
+
+  - source: der Metalldetektor
+    target: metal detector
+    categories: [travel, security, technology]
+    gender: masculine
+    plural: die Metalldetektoren
+
+  - source: der Koffer
+    target: suitcase
+    categories: [travel, luggage]
+    gender: masculine
+    plural: die Koffer
+
+  # die Geräte (Devices)
+  - source: das Handy
+    target: cellphone
+    categories: [devices, communication, mobile]
+    gender: neuter
+    plural: die Handys
+    notes: German word for mobile phone
+
+  - source: das Tablet
+    target: tablet
+    categories: [devices, technology, computing]
+    gender: neuter
+    plural: die Tablets
+
+  - source: der Laptop
+    target: laptop
+    categories: [devices, technology, computing]
+    gender: masculine
+    plural: die Laptops
+
+  - source: das Notebook
+    target: laptop
+    categories: [devices, technology, computing]
+    gender: neuter
+    plural: die Notebooks
+    notes: Alternative term for laptop
+
+  - source: der Standrechner
+    target: desktop computer
+    categories: [devices, technology, computing]
+    gender: masculine
+    plural: die Standrechner
+
+  - source: der Computer
+    target: computer
+    categories: [devices, technology, computing]
+    gender: masculine
+    plural: die Computer
+
+  - source: der Bildschirm
+    target: screen
+    categories: [devices, technology, display]
+    gender: masculine
+    plural: die Bildschirme
+
+  - source: die Tastatur
+    target: keyboard
+    categories: [devices, technology, input]
+    gender: feminine
+    plural: die Tastaturen
+
+  - source: die Computermaus
+    target: mouse
+    categories: [devices, technology, input]
+    gender: feminine
+    plural: die Computermäuse
+    notes: Computer mouse, not animal
+
+  - source: die Kopfhörer
+    target: headphones
+    categories: [devices, technology, audio]
+    gender: masculine
+    plural: die Kopfhörer
+    notes: Usually used in plural
+
+  - source: das Mikrofon
+    target: microphone
+    categories: [devices, technology, audio]
+    gender: neuter
+    plural: die Mikrofone
+
+  - source: der Fotoapparat
+    target: camera
+    categories: [devices, technology, photography]
+    gender: masculine
+    plural: die Fotoapparate
+
+  - source: die Videokamera
+    target: video camera
+    categories: [devices, technology, video]
+    gender: feminine
+    plural: die Videokameras
+
+  - source: das WLAN
+    target: wifi
+    categories: [devices, technology, internet]
+    gender: neuter
+    notes: Wireless Local Area Network
