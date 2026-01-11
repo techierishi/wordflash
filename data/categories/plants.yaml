@@ -1,0 +1,122 @@
+quizzes:
+  - category: "Plants"
+    questions:
+      - question: "What do plants need to grow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sunlight, water, and soil"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant sunlight water"
+
+      - question: "What is the largest flower?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rafflesia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rafflesia largest flower"
+
+      - question: "What part of a plant absorbs water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Roots"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant roots"
+
+      - question: "What process do plants use to make food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Photosynthesis"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What flower blooms in spring?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tulip"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tulip spring flower"
+
+      - question: "What is a Venus flytrap?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A carnivorous plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Venus flytrap"
+
+      - question: "What is the tallest tree?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coast Redwood"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coast redwood tall tree"
+
+      - question: "What tree produces apples?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Apple tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "apple tree fruit"
+
+      - question: "What tree produces coconuts?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coconut palm"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coconut palm tree"
+
+      - question: "What is the oldest plant?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bristlecone Pine"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bristlecone pine old"
+
+      - question: "What flower is a symbol of love?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rose"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "red rose love"
+
+      - question: "What plant is used to make paper?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bamboo plant"
+
+      - question: "What is the fastest growing plant?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bamboo growth fast"
+
+      - question: "What cactus is the largest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Saguaro"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "saguaro cactus large"
+
+      - question: "What plant lives underwater?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seaweed"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seaweed underwater"
+
+      - question: "What flower closes at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tulip"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tulip closing"
+
+      - question: "What plant produces oxygen?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "All plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plants oxygen photosynthesis"
+
+      - question: "What is a fruit?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seed-bearing part of a plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fruit seed plant"
+
+      - question: "What plant produces chocolate?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cacao tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cacao tree chocolate"
+
+      - question: "What tree sheds its leaves in fall?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Deciduous tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fall autumn leaves falling"
+

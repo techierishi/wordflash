@@ -1,0 +1,61 @@
+quizzes:
+  - category: "Body Parts"
+    questions:
+      - question: "What is the largest organ in your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Skin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human skin"
+
+      - question: "What pumps blood around your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Heart"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human heart"
+
+      - question: "How many bones do adults have?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "206"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What do your teeth use to chew food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Molars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human teeth molars"
+
+      - question: "What body part helps you see?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eyes"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human eye"
+
+      - question: "What helps you hear sounds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ears"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human ear"
+
+      - question: "What filters waste from your blood?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kidneys"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human kidneys"
+
+      - question: "What is the strongest bone in your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Femur"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "femur thighbone"
+
+      - question: "How many chambers does the heart have?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Four"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What do your lungs help you do?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Breathe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human lungs breathing"
+

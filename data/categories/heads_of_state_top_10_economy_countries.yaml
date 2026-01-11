@@ -1,0 +1,63 @@
+quizzes:
+  - category: "Heads of State - Top 10 Economy Countries"
+    questions:
+      - question: "Who is the President of the United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Donald Trump"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Donald Trump president"
+
+      - question: "Who is the President of China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Xi Jinping"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Xi Jinping China"
+
+      - question: "Who is the Prime Minister of Japan?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Shigeru Ishiba"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Japan Prime Minister"
+
+      - question: "Who is the Chancellor of Germany?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Olaf Scholz"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Olaf Scholz Germany"
+
+      - question: "Who is the Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Narendra Modi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Narendra Modi India"
+
+      - question: "Who is the Prime Minister of the United Kingdom?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Keir Starmer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "UK Prime Minister"
+
+      - question: "Who is the President of France?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Emmanuel Macron"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Emmanuel Macron France"
+
+      - question: "Who is the President of Brazil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Luiz Inácio Lula da Silva"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Brazil President"
+
+      - question: "Who is the Prime Minister of Canada?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Justin Trudeau"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Justin Trudeau Canada"
+
+      - question: "Who is the President of Italy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sergio Mattarella"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Italy President"
+

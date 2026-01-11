@@ -1,0 +1,63 @@
+quizzes:
+  - category: "Flags - Top 20 Economy Countries"
+    questions:
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "France"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "France flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United States"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "USA flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "China"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "China flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Poland"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "Poland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Japan"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "Japan flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Germany"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "Germany flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "India"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "India flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Switzerland"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "Switzerland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United Kingdom"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "UK flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Brazil"
+        answer_media: {text: true, audio: true, image: false}
+        question_image_search_term: "Brazil flag"
+

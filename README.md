@@ -62,6 +62,13 @@ make demo-quiz        # Run quiz demo
 make run ARGS="file.yaml"  # Generate from file
 ```
 
+All category separate files:
+```bash
+for file in data/categories/*.yaml; do
+  deck_name=$(basename "$file" .yaml | tr '_' ' ')
+  uv run wordflash "$file" --type quiz --deck-name "$deck_name"
+done
+```
 ## Output
 
 Generates `.apkg` files (Anki packages) with:

@@ -1,0 +1,123 @@
+quizzes:
+  - category: "Birds"
+    questions:
+      - question: "Which bird is the fastest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Peregrine Falcon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "peregrine falcon fast"
+
+      - question: "Which bird can't fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin"
+
+      - question: "Which bird is the largest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ostrich"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ostrich large bird"
+
+      - question: "Which bird lives in groups called colonies?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin colony"
+
+      - question: "Which bird is known for copying sounds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Parrot"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "parrot colorful"
+
+      - question: "Which bird builds huge nests?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eagle"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "eagle nest large"
+
+      - question: "Which bird is black and white?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin black white"
+
+      - question: "Which bird sleeps with one eye open?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Duck"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "duck swimming"
+
+      - question: "Which bird is a symbol of peace?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dove"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dove peace"
+
+      - question: "Which bird has the longest tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Peacock"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "peacock tail feathers"
+
+      - question: "Which bird hunts at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Owl"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "owl night hunting"
+
+      - question: "Which bird is red?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cardinal"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cardinal red bird"
+
+      - question: "Which bird drinks nectar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hummingbird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hummingbird nectar"
+
+      - question: "Which bird can walk upside down?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Woodpecker"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "woodpecker tree"
+
+      - question: "Which bird is a scavenger?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vulture"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "vulture scavenger"
+
+      - question: "Which bird lays eggs in other birds' nests?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cuckoo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cuckoo bird"
+
+      - question: "Which bird has a long beak for fishing?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pelican"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pelican beak fishing"
+
+      - question: "Which bird is white and associated with weddings?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "White Dove"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "white dove wedding"
+
+      - question: "Which bird makes a sound like 'hoot hoot'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Owl"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "owl hooting"
+
+      - question: "Which bird is very smart and can use tools?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Crow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "crow intelligent bird"
+

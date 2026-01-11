@@ -11,10 +11,14 @@ from .database_manager import DatabaseManager
 class QuizLoader:
     """Load quiz questions with flexible media configurations."""
 
-    def __init__(self, db_path: Optional[Path] = None):
-        if db_path is None:
-            db_path = Path("data/output/wordflash.json")
-        self.db_manager = DatabaseManager(db_path)
+    def __init__(self):
+        self.db_manager = None
+        self.db_path = Path("data/output/wordflash.json")
+
+    def _get_db(self):
+        if self.db_manager is None:
+            self.db_manager = DatabaseManager(self.db_path)
+        return self.db_manager
 
     def load_from_yaml(self, file_path: str) -> List[Dict]:
         """Load quiz data from YAML file.
@@ -49,7 +53,6 @@ class QuizLoader:
         elif isinstance(data, list):
             quizzes = self._process_quizzes(data)
 
-        self._store_quizzes_in_database(quizzes)
         return quizzes
 
     def _process_quizzes(self, quizzes_list: List[Dict]) -> List[Dict]:
@@ -116,19 +119,29 @@ class QuizLoader:
 
         return processed_question
 
-    def _store_quizzes_in_database(self, quizzes: List[Dict]):
-        """Store quiz data in database for reference."""
-        for quiz_data in quizzes:
-            # Store as a quiz entry (if database supports it)
-            self.db_manager.add_word(
-                {
-                    "source": quiz_data["question"],
-                    "target": quiz_data["answer"],
-                    "category": quiz_data["category"],
-                    "type": "quiz",
-                    "notes": quiz_data.get("notes"),
-                }
-            )
+    def store_quiz_to_db(self, quiz_data: Dict) -> bool:
+        try:
+            db = self._get_db()
+            db.add_word({
+                "source": quiz_data["question"],
+                "target": quiz_data["answer"],
+                "category": quiz_data.get("category", "Uncategorized"),
+                "type": "quiz",
+            })
+            return True
+        except Exception:
+            return False
+
+    def is_quiz_unique(self, question: str, answer: str) -> bool:
+        try:
+            db = self._get_db()
+            from tinydb import Query
+            Word = Query()
+            word_hash = db._generate_hash(question, answer)
+            existing = db.words_table.search(Word.source_hash == word_hash)
+            return len(existing) == 0
+        except Exception:
+            return True
 
     def validate_quiz_list(self, quizzes: List[Dict]) -> bool:
         """Validate that quiz list has required fields."""

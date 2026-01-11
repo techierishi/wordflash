@@ -1,0 +1,123 @@
+quizzes:
+  - category: "Fish"
+    questions:
+      - question: "What is the largest fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Whale Shark"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "whale shark"
+
+      - question: "What fish is orange with white stripes?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Clownfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "clownfish nemo"
+
+      - question: "What fish has poisonous spines?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lionfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lionfish poisonous"
+
+      - question: "What fish can change colors?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chameleon Fish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "chameleon fish color changing"
+
+      - question: "What is an electric fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Electric Eel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "electric eel"
+
+      - question: "What fish looks like a horse?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seahorse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seahorse"
+
+      - question: "What fish has a saw-like nose?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sawfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sawfish saw nose"
+
+      - question: "What is a starfish really?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Echinoderm (not a fish)"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "starfish sea star"
+
+      - question: "What fish glows in the dark?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Anglerfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "anglerfish deep sea"
+
+      - question: "What fish is flat like a pancake?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Flatfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flatfish flounder"
+
+      - question: "What fish shoots water at prey?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Archerfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "archerfish"
+
+      - question: "What fish is spiky all over?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pufferfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pufferfish spiky"
+
+      - question: "What fish swims backward?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seahorse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seahorse backward swimming"
+
+      - question: "What fish has a long, flat tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Swordfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "swordfish"
+
+      - question: "What fish lives in groups called schools?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Herring"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "herring school fish"
+
+      - question: "What is a flying fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A fish that jumps out of water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flying fish jump"
+
+      - question: "What fish has a horn on its head?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Narwhal"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "narwhal horn"
+
+      - question: "What fish is considered a living fossil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coelacanth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coelacanth"
+
+      - question: "What fish can live without water for short times?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mudskipper"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "mudskipper land fish"
+
+      - question: "What fish is a bottom feeder?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Catfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "catfish bottom"
+

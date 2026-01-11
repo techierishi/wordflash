@@ -1,0 +1,123 @@
+quizzes:
+  - category: "Animals"
+    questions:
+      - question: "What is the fastest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cheetah"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cheetah running"
+
+      - question: "What is the tallest animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe"
+
+      - question: "What is the largest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "African elephant"
+
+      - question: "What do pandas eat?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "panda bamboo"
+
+      - question: "Which animal roars the loudest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion roaring"
+
+      - question: "What is the only mammal that can fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bat flying"
+
+      - question: "What animal has a pouch for babies?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kangaroo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo with baby"
+
+      - question: "Which animal is black and white?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Zebra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "zebra"
+
+      - question: "What animal sleeps standing up?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Horse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "horse standing"
+
+      - question: "What is the largest bear?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Polar Bear"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "polar bear"
+
+      - question: "What animal has a long neck and spots?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe spots"
+
+      - question: "What animal is known for being slow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sloth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sloth slow animal"
+
+      - question: "What does a camel store in its hump?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "camel with hump"
+
+      - question: "What animal spins a web?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spider"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spider web"
+
+      - question: "What animal says 'Moo'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cow"
+
+      - question: "What is the king of the jungle?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion king"
+
+      - question: "What animal lays eggs and has feathers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bird feathers"
+
+      - question: "What animal is known for being lazy but dangerous?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hippopotamus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hippopotamus"
+
+      - question: "What animal has a long tail and swings in trees?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Monkey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "monkey swinging"
+
+      - question: "What animal is the heaviest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elephant heavy"
+

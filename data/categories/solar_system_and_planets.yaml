@@ -1,0 +1,60 @@
+quizzes:
+  - category: "Solar System & Planets"
+    questions:
+      - question: "What is the largest planet in our solar system?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jupiter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jupiter planet"
+
+      - question: "Which planet is closest to the sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mercury"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mercury planet"
+
+      - question: "Which planet is known as the red planet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mars planet red"
+
+      - question: "What is Saturn famous for?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rings"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Saturn rings planet"
+
+      - question: "Which planet has the most moons?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jupiter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jupiter moons"
+
+      - question: "Is the sun a star or a planet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A star"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "How many planets are in our solar system?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eight"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What is Earth's natural satellite called?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "moon"
+
+      - question: "Which planet is similar to Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Venus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Venus planet"
+
+      - question: "What do we call the path a planet takes around the sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Orbit"
+        answer_media: {text: true, audio: true, image: false}
+
