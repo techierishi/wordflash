@@ -1,0 +1,853 @@
+quizzes:
+  - category: "Solar System & Planets"
+    questions:
+      - question: "What is the largest planet in our solar system?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jupiter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jupiter planet"
+
+      - question: "Which planet is closest to the sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mercury"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mercury planet"
+
+      - question: "Which planet is known as the red planet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mars planet red"
+
+      - question: "What is Saturn famous for?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rings"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Saturn rings planet"
+
+      - question: "Which planet has the most moons?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jupiter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jupiter moons"
+
+      - question: "Is the sun a star or a planet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A star"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "How many planets are in our solar system?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eight"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What is Earth's natural satellite called?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "moon"
+
+      - question: "Which planet is similar to Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Venus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Venus planet"
+
+      - question: "What do we call the path a planet takes around the sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Orbit"
+        answer_media: {text: true, audio: true, image: false}
+
+  - category: "Geography - Top 20 Economy Countries"
+    questions:
+      - question: "What is the capital of the United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Washington D.C."
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "White House Washington DC"
+
+      - question: "What is the capital of China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Beijing"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Great Wall China Beijing"
+
+      - question: "What is the capital of Japan?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tokyo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Tokyo Japan city"
+
+      - question: "What is the capital of Germany?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Berlin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Berlin Germany"
+
+      - question: "What is the capital of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "New Delhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Delhi India Taj Mahal"
+
+      - question: "What is the capital of the United Kingdom?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "London"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "London Big Ben"
+
+      - question: "What is the capital of France?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Paris"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Paris Eiffel Tower"
+
+      - question: "What is the capital of Brazil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brasília"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Brasilia Brazil"
+
+      - question: "What is the capital of Italy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rome"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Rome Colosseum Italy"
+
+      - question: "What is the capital of Canada?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ottawa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ottawa Canada Parliament"
+
+      - question: "What is the capital of Spain?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Madrid"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Madrid Spain"
+
+      - question: "What is the capital of Mexico?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mexico City"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mexico City"
+
+      - question: "What is the capital of South Korea?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seoul"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Seoul South Korea"
+
+      - question: "What is the capital of Australia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Canberra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Canberra Australia"
+
+      - question: "What is the capital of Russia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moscow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Moscow Russia Red Square"
+
+      - question: "What is the capital of Indonesia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jakarta"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jakarta Indonesia"
+
+      - question: "What is the capital of the Netherlands?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Amsterdam"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Amsterdam Netherlands"
+
+      - question: "What is the capital of Saudi Arabia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Riyadh"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Riyadh Saudi Arabia"
+
+      - question: "What is the capital of Türkiye?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ankara"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ankara Turkey"
+
+      - question: "What is the capital of Switzerland?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bern"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bern Switzerland"
+
+  - category: "Flags - Top 20 Economy Countries"
+    questions:
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "France"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "France flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United States"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "USA flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "China"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "China flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Poland"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Poland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Japan"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Japan flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Germany"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Germany flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "India"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "India flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Switzerland"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Switzerland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United Kingdom"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "UK flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Brazil"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Brazil flag"
+
+  - category: "Heads of State - Top 10 Economy Countries"
+    questions:
+      - question: "Who is the President of the United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Donald Trump"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Donald Trump president"
+
+      - question: "Who is the President of China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Xi Jinping"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Xi Jinping China"
+
+      - question: "Who is the Prime Minister of Japan?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Shigeru Ishiba"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Japan Prime Minister"
+
+      - question: "Who is the Chancellor of Germany?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Olaf Scholz"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Olaf Scholz Germany"
+
+      - question: "Who is the Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Narendra Modi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Narendra Modi India"
+
+      - question: "Who is the Prime Minister of the United Kingdom?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Keir Starmer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "UK Prime Minister"
+
+      - question: "Who is the President of France?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Emmanuel Macron"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Emmanuel Macron France"
+
+      - question: "Who is the President of Brazil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Luiz Inácio Lula da Silva"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Brazil President"
+
+      - question: "Who is the Prime Minister of Canada?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Justin Trudeau"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Justin Trudeau Canada"
+
+      - question: "Who is the President of Italy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sergio Mattarella"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Italy President"
+
+  - category: "Body Parts"
+    questions:
+      - question: "What is the largest organ in your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Skin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human skin"
+
+      - question: "What pumps blood around your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Heart"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human heart"
+
+      - question: "How many bones do adults have?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "206"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What do your teeth use to chew food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Molars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human teeth molars"
+
+      - question: "What body part helps you see?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eyes"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human eye"
+
+      - question: "What helps you hear sounds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ears"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human ear"
+
+      - question: "What filters waste from your blood?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kidneys"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human kidneys"
+
+      - question: "What is the strongest bone in your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Femur"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "femur thighbone"
+
+      - question: "How many chambers does the heart have?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Four"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What do your lungs help you do?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Breathe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human lungs breathing"
+
+  - category: "Animals"
+    questions:
+      - question: "What is the fastest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cheetah"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cheetah running"
+
+      - question: "What is the tallest animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe"
+
+      - question: "What is the largest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "African elephant"
+
+      - question: "What do pandas eat?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "panda bamboo"
+
+      - question: "Which animal roars the loudest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion roaring"
+
+      - question: "What is the only mammal that can fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bat flying"
+
+      - question: "What animal has a pouch for babies?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kangaroo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo with baby"
+
+      - question: "Which animal is black and white?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Zebra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "zebra"
+
+      - question: "What animal sleeps standing up?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Horse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "horse standing"
+
+      - question: "What is the largest bear?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Polar Bear"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "polar bear"
+
+      - question: "What animal has a long neck and spots?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe spots"
+
+      - question: "What animal is known for being slow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sloth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sloth slow animal"
+
+      - question: "What does a camel store in its hump?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "camel with hump"
+
+      - question: "What animal spins a web?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spider"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spider web"
+
+      - question: "What animal says 'Moo'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cow"
+
+      - question: "What is the king of the jungle?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion king"
+
+      - question: "What animal lays eggs and has feathers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bird feathers"
+
+      - question: "What animal is known for being lazy but dangerous?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hippopotamus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hippopotamus"
+
+      - question: "What animal has a long tail and swings in trees?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Monkey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "monkey swinging"
+
+      - question: "What animal is the heaviest land animal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elephant heavy"
+
+  - category: "Fish"
+    questions:
+      - question: "What is the largest fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Whale Shark"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "whale shark"
+
+      - question: "What fish is orange with white stripes?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Clownfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "clownfish nemo"
+
+      - question: "What fish has poisonous spines?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lionfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lionfish poisonous"
+
+      - question: "What fish can change colors?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chameleon Fish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "chameleon fish color changing"
+
+      - question: "What is an electric fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Electric Eel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "electric eel"
+
+      - question: "What fish looks like a horse?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seahorse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seahorse"
+
+      - question: "What fish has a saw-like nose?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sawfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sawfish saw nose"
+
+      - question: "What is a starfish really?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Echinoderm (not a fish)"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "starfish sea star"
+
+      - question: "What fish glows in the dark?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Anglerfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "anglerfish deep sea"
+
+      - question: "What fish is flat like a pancake?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Flatfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flatfish flounder"
+
+      - question: "What fish shoots water at prey?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Archerfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "archerfish"
+
+      - question: "What fish is spiky all over?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pufferfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pufferfish spiky"
+
+      - question: "What fish swims backward?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seahorse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seahorse backward swimming"
+
+      - question: "What fish has a long, flat tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Swordfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "swordfish"
+
+      - question: "What fish lives in groups called schools?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Herring"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "herring school fish"
+
+      - question: "What is a flying fish?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A fish that jumps out of water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flying fish jump"
+
+      - question: "What fish has a horn on its head?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Narwhal"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "narwhal horn"
+
+      - question: "What fish is considered a living fossil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coelacanth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coelacanth"
+
+      - question: "What fish can live without water for short times?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mudskipper"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "mudskipper land fish"
+
+      - question: "What fish is a bottom feeder?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Catfish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "catfish bottom"
+
+  - category: "Birds"
+    questions:
+      - question: "Which bird is the fastest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Peregrine Falcon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "peregrine falcon fast"
+
+      - question: "Which bird can't fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin"
+
+      - question: "Which bird is the largest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ostrich"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ostrich large bird"
+
+      - question: "Which bird lives in groups called colonies?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin colony"
+
+      - question: "Which bird is known for copying sounds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Parrot"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "parrot colorful"
+
+      - question: "Which bird builds huge nests?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eagle"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "eagle nest large"
+
+      - question: "Which bird is black and white?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin black white"
+
+      - question: "Which bird sleeps with one eye open?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Duck"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "duck swimming"
+
+      - question: "Which bird is a symbol of peace?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dove"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dove peace"
+
+      - question: "Which bird has the longest tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Peacock"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "peacock tail feathers"
+
+      - question: "Which bird hunts at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Owl"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "owl night hunting"
+
+      - question: "Which bird is red?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cardinal"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cardinal red bird"
+
+      - question: "Which bird drinks nectar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hummingbird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hummingbird nectar"
+
+      - question: "Which bird can walk upside down?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Woodpecker"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "woodpecker tree"
+
+      - question: "Which bird is a scavenger?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vulture"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "vulture scavenger"
+
+      - question: "Which bird lays eggs in other birds' nests?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cuckoo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cuckoo bird"
+
+      - question: "Which bird has a long beak for fishing?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pelican"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pelican beak fishing"
+
+      - question: "Which bird is white and associated with weddings?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "White Dove"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "white dove wedding"
+
+      - question: "Which bird makes a sound like 'hoot hoot'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Owl"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "owl hooting"
+
+      - question: "Which bird is very smart and can use tools?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Crow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "crow intelligent bird"
+
+  - category: "Plants"
+    questions:
+      - question: "What do plants need to grow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sunlight, water, and soil"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant sunlight water"
+
+      - question: "What is the largest flower?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rafflesia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rafflesia largest flower"
+
+      - question: "What part of a plant absorbs water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Roots"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant roots"
+
+      - question: "What process do plants use to make food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Photosynthesis"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What flower blooms in spring?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tulip"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tulip spring flower"
+
+      - question: "What is a Venus flytrap?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A carnivorous plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Venus flytrap"
+
+      - question: "What is the tallest tree?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coast Redwood"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coast redwood tall tree"
+
+      - question: "What tree produces apples?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Apple tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "apple tree fruit"
+
+      - question: "What tree produces coconuts?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coconut palm"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coconut palm tree"
+
+      - question: "What is the oldest plant?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bristlecone Pine"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bristlecone pine old"
+
+      - question: "What flower is a symbol of love?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rose"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "red rose love"
+
+      - question: "What plant is used to make paper?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bamboo plant"
+
+      - question: "What is the fastest growing plant?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bamboo growth fast"
+
+      - question: "What cactus is the largest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Saguaro"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "saguaro cactus large"
+
+      - question: "What plant lives underwater?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seaweed"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seaweed underwater"
+
+      - question: "What flower closes at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tulip"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tulip closing"
+
+      - question: "What plant produces oxygen?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "All plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plants oxygen photosynthesis"
+
+      - question: "What is a fruit?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seed-bearing part of a plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fruit seed plant"
+
+      - question: "What plant produces chocolate?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cacao tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cacao tree chocolate"
+
+      - question: "What tree sheds its leaves in fall?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Deciduous tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fall autumn leaves falling"
+

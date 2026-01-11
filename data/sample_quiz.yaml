@@ -1,0 +1,168 @@
+# Quiz Format Example - Flexible Q&A with Media Configuration
+# This demonstrates how to create quiz-style flashcards with flexible media types
+
+quizzes:
+  # Category: US Presidents
+  - category: "US Presidents"
+    questions:
+      - question: "Who is the president of the United States?"
+        question_media:
+          text: true
+          audio: true
+          image: false
+        answer: "Donald Trump"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "Donald Trump US President"
+        notes: "2025 President"
+
+      - question: "Which president is on the $1 bill?"
+        question_media:
+          text: true
+          audio: false
+          image: false
+        answer: "George Washington"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "George Washington dollar bill"
+
+  # Category: Planets
+  - category: "Solar System"
+    questions:
+      - question: "What planet is this?"
+        question_image_search_term: "Jupiter planet"
+        question_media:
+          text: true
+          audio: true
+          image: true
+        answer: "Jupiter"
+        answer_media:
+          text: true
+          audio: true
+          image: false
+        notes: "Largest planet in our solar system"
+        answer_lang: "en"
+
+      - question: "Which is the closest planet to the sun?"
+        question_media:
+          text: true
+          audio: true
+          image: false
+        answer: "Mercury"
+        answer_media:
+          text: true
+          audio: true
+          image: true
+          image_search_term: "Mercury planet"
+
+      - question: "The red planet"
+        question_media:
+          text: true
+          audio: false
+          image: false
+        answer: "Mars"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "Mars planet red"
+
+  # Category: Animals
+  - category: "Animals"
+    questions:
+      - question: "Image of antelope"
+        question_image_search_term: "antelope"
+        question_media:
+          text: false
+          audio: false
+          image: true
+        answer: "Antelope"
+        answer_media:
+          text: true
+          audio: true
+          image: false
+
+      - question: "What animal says 'meow'? (With Audio)"
+        question_media:
+          text: true
+          audio: true
+          image: false
+        answer: "Cat"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "cat domestic animal"
+
+      - question: "Large mammal of Africa"
+        question_media:
+          text: true
+          audio: false
+          image: false
+        answer: "Elephant"
+        answer_media:
+          text: true
+          audio: true
+          image: true
+          image_search_term: "African elephant"
+
+  # Category: Geography
+  - category: "Geography"
+    questions:
+      - question: "Capital of France (Audio Question)"
+        question_media:
+          text: true
+          audio: true
+          image: false
+        answer: "Paris"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "Eiffel Tower Paris"
+
+      - question: "Which country is this? (Flag Image)"
+        question_image_search_term: "French flag"
+        question_media:
+          text: true
+          audio: false
+          image: true
+        answer: "France"
+        answer_media:
+          text: true
+          audio: true
+          image: false
+
+      - question: "Largest country by area"
+        question_media:
+          text: true
+          audio: false
+          image: false
+        answer: "Russia"
+        answer_media:
+          text: true
+          audio: false
+          image: true
+          image_search_term: "Russia map"
+
+# Media Configuration Explanation:
+# ================================
+# Each question and answer can be configured with:
+#
+# text: (true/false) - Display text content on this side
+# audio: (true/false) - Include audio pronunciation on this side
+# image: (true/false) - Include image on this side
+# image_search_term: (optional) - Override what to search for images
+#                                (defaults to answer/question text)
+#
+# Examples of configurations:
+# - Audio + Text (Pronunciation practice): text: true, audio: true, image: false
+# - Image + Text (Visual recognition): text: true, audio: false, image: true
+# - Image only (Pure visual): text: false, audio: false, image: true
+# - Audio only (Listening practice): text: false, audio: true, image: false
+# - Text only (Reading/spelling): text: true, audio: false, image: false
+# - All three: text: true, audio: true, image: true

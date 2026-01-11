@@ -1,17 +1,19 @@
 # WordFlash Makefile
 
-.PHONY: help install run demo clean build
+.PHONY: help install run demo demo-vocab demo-quiz clean build
 
 help:
 	@echo "WordFlash Makefile"
 	@echo "=================="
 	@echo ""
 	@echo "Available targets:"
-	@echo "  install    Install dependencies"
-	@echo "  run        Run WordFlash (usage: make run ARGS='file.yaml')"
-	@echo "  demo       Run with sample data"
-	@echo "  clean      Clean build artifacts"
-	@echo "  build      Build package"
+	@echo "  install      Install dependencies"
+	@echo "  run          Run WordFlash (usage: make run ARGS='file.yaml')"
+	@echo "  demo         Run with sample data"
+	@echo "  demo-vocab   Run with sample vocabulary data"
+	@echo "  demo-quiz    Run with sample quiz data"
+	@echo "  clean        Clean build artifacts"
+	@echo "  build        Build package"
 
 install:
 	@echo "📦 Installing dependencies..."
@@ -21,9 +23,15 @@ run:
 	@echo "🚀 Running WordFlash..."
 	uv run wordflash $(ARGS)
 
-demo:
-	@echo "🎬 Running demo..."
+demo: demo-vocab
+
+demo-vocab:
+	@echo "🎬 Running vocab demo..."
 	uv run wordflash data/test_enhanced_vocab.yaml --deck-name "Demo Deck"
+
+demo-quiz:
+	@echo "🎯 Running quiz demo..."
+	uv run wordflash data/sample_quiz.yaml --deck-name "Quiz Demo" --type quiz
 
 clean:
 	@echo "🧹 Cleaning..."
