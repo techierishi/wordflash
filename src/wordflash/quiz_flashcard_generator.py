@@ -18,11 +18,13 @@ class QuizFlashcardGenerator:
         deck_name: str = "Quiz Deck",
         question_lang: str = "en",
         answer_lang: str = "en",
+        manual_image_approval: bool = True,
     ):
         self.output_dir = Path(output_dir)
         self.deck_name = deck_name
         self.question_lang = question_lang
         self.answer_lang = answer_lang
+        self.manual_image_approval = manual_image_approval
 
         self.quiz_loader = QuizLoader()
         self.image_service = ImageService(self.output_dir)
@@ -65,7 +67,7 @@ class QuizFlashcardGenerator:
                     "question_image_search_term", question
                 )
                 question_image_path = self.image_service.download_image(
-                    search_term
+                    search_term, manual_approval=self.manual_image_approval
                 )
                 if question_image_path:
                     print(f"  ✓ Question image downloaded")
@@ -92,7 +94,9 @@ class QuizFlashcardGenerator:
 
             if a_media.get("image"):
                 search_term = quiz_data.get("answer_image_search_term", answer)
-                answer_image_path = self.image_service.download_image(search_term)
+                answer_image_path = self.image_service.download_image(
+                    search_term, manual_approval=self.manual_image_approval
+                )
                 if answer_image_path:
                     print(f"  ✓ Answer image downloaded")
                 else:

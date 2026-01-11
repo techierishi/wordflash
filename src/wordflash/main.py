@@ -65,6 +65,11 @@ def main():
         default="en",
         help="Answer language for quiz mode (default: en)",
     )
+    parser.add_argument(
+        "--no-image-approval",
+        action="store_true",
+        help="Skip manual image approval (auto-download first match)",
+    )
 
     args = parser.parse_args()
 
@@ -89,6 +94,7 @@ def main():
                 deck_name=args.deck_name,
                 question_lang=args.question_lang,
                 answer_lang=args.answer_lang,
+                manual_image_approval=not args.no_image_approval,
             )
         else:  # vocab
             generator = FlashcardGenerator(

@@ -17,6 +17,18 @@ uv sync
 uv run wordflash data/kids_learning.yaml --type quiz --deck-name "Kids Learning"
 ```
 
+### Image Approval
+
+When downloading images, WordFlash displays each image for your approval:
+- Type `y` to approve and use the image
+- Type `n` to reject and try the next image  
+- Type `skip` to skip this question
+
+To skip image approval and auto-download first matches:
+```bash
+uv run wordflash data/kids_learning.yaml --type quiz --no-image-approval
+```
+
 ## YAML Format
 
 ```yaml
