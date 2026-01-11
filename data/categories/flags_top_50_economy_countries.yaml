@@ -1,0 +1,303 @@
+quizzes:
+  - category: "Flags - Top 50 Economy Countries"
+    questions:
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United States"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "United States flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "China"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "China flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Germany"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Germany flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Japan"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Japan flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "India"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "India flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United Kingdom"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "United Kingdom flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "France"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "France flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Brazil"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Brazil flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Italy"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Italy flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Canada"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Canada flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "South Korea"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "South Korea flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Spain"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Spain flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Mexico"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Mexico flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Indonesia"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Indonesia flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Netherlands"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Netherlands flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Saudi Arabia"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Saudi Arabia flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Turkey"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Turkey flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Switzerland"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Switzerland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Poland"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Poland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Belgium"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Belgium flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Argentina"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Argentina flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Sweden"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Sweden flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Ireland"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Ireland flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Austria"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Austria flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Norway"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Norway flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Nigeria"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Nigeria flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Israel"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Israel flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "United Arab Emirates"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "United Arab Emirates flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Singapore"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Singapore flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Hong Kong"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Hong Kong flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Denmark"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Denmark flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Malaysia"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Malaysia flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Philippines"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Philippines flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Vietnam"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Vietnam flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Pakistan"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Pakistan flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Bangladesh"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Bangladesh flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Chile"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Chile flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Colombia"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Colombia flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Greece"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Greece flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Portugal"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Portugal flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Czech Republic"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Czech Republic flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Romania"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Romania flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Iraq"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Iraq flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Peru"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Peru flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Thailand"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Thailand flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "New Zealand"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "New Zealand flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Kuwait"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Kuwait flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Hungary"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Hungary flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Egypt"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Egypt flag"
+
+      - question: "Which country flag is this?"
+        question_media: {text: false, audio: true, image: true}
+        answer: "Qatar"
+        answer_media: {text: true, audio: false, image: false}
+        question_image_search_term: "Qatar flag"
+

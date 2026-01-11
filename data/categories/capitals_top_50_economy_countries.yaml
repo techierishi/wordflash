@@ -1,0 +1,303 @@
+quizzes:
+  - category: "Capitals - Top 50 Economy Countries"
+    questions:
+      - question: "What is the capital of United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Washington D.C."
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "White House Washington DC"
+
+      - question: "What is the capital of China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Beijing"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Beijing Great Wall"
+
+      - question: "What is the capital of Germany?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Berlin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Berlin Brandenburg Gate"
+
+      - question: "What is the capital of Japan?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tokyo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Tokyo city"
+
+      - question: "What is the capital of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "New Delhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Delhi India Gate"
+
+      - question: "What is the capital of United Kingdom?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "London"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "London Big Ben"
+
+      - question: "What is the capital of France?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Paris"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Paris Eiffel Tower"
+
+      - question: "What is the capital of Brazil?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brasília"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Brasilia Brazil"
+
+      - question: "What is the capital of Italy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rome"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Rome Colosseum"
+
+      - question: "What is the capital of Canada?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ottawa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ottawa Canada"
+
+      - question: "What is the capital of South Korea?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seoul"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Seoul Korea"
+
+      - question: "What is the capital of Spain?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Madrid"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Madrid Spain"
+
+      - question: "What is the capital of Mexico?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mexico City"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mexico City"
+
+      - question: "What is the capital of Indonesia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jakarta"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jakarta Indonesia"
+
+      - question: "What is the capital of Netherlands?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Amsterdam"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Amsterdam Netherlands"
+
+      - question: "What is the capital of Saudi Arabia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Riyadh"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Riyadh Saudi Arabia"
+
+      - question: "What is the capital of Turkey?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ankara"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ankara Turkey"
+
+      - question: "What is the capital of Switzerland?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bern"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bern Switzerland"
+
+      - question: "What is the capital of Poland?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Warsaw"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Warsaw Poland"
+
+      - question: "What is the capital of Belgium?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brussels"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Brussels Belgium"
+
+      - question: "What is the capital of Argentina?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Buenos Aires"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Buenos Aires Argentina"
+
+      - question: "What is the capital of Sweden?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Stockholm"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Stockholm Sweden"
+
+      - question: "What is the capital of Ireland?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dublin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dublin Ireland"
+
+      - question: "What is the capital of Austria?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vienna"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Vienna Austria"
+
+      - question: "What is the capital of Norway?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Oslo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Oslo Norway"
+
+      - question: "What is the capital of Nigeria?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Abuja"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Abuja Nigeria"
+
+      - question: "What is the capital of Israel?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jerusalem"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jerusalem Israel"
+
+      - question: "What is the capital of United Arab Emirates?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Abu Dhabi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Abu Dhabi UAE"
+
+      - question: "What is the capital of Singapore?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Singapore"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Singapore city"
+
+      - question: "What is the capital of Hong Kong?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hong Kong"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Hong Kong city"
+
+      - question: "What is the capital of Denmark?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Copenhagen"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Copenhagen Denmark"
+
+      - question: "What is the capital of Malaysia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kuala Lumpur"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Kuala Lumpur Malaysia"
+
+      - question: "What is the capital of Philippines?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Manila"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Manila Philippines"
+
+      - question: "What is the capital of Vietnam?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hanoi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Hanoi Vietnam"
+
+      - question: "What is the capital of Pakistan?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Islamabad"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Islamabad Pakistan"
+
+      - question: "What is the capital of Bangladesh?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dhaka"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dhaka Bangladesh"
+
+      - question: "What is the capital of Chile?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Santiago"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Santiago Chile"
+
+      - question: "What is the capital of Colombia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bogotá"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bogota Colombia"
+
+      - question: "What is the capital of Greece?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Athens"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Athens Greece"
+
+      - question: "What is the capital of Portugal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lisbon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Lisbon Portugal"
+
+      - question: "What is the capital of Czech Republic?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Prague"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Prague Czech Republic"
+
+      - question: "What is the capital of Romania?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bucharest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bucharest Romania"
+
+      - question: "What is the capital of Iraq?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Baghdad"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Baghdad Iraq"
+
+      - question: "What is the capital of Peru?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lima"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Lima Peru"
+
+      - question: "What is the capital of Thailand?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bangkok"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bangkok Thailand"
+
+      - question: "What is the capital of New Zealand?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wellington"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Wellington New Zealand"
+
+      - question: "What is the capital of Kuwait?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kuwait City"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Kuwait City"
+
+      - question: "What is the capital of Hungary?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Budapest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Budapest Hungary"
+
+      - question: "What is the capital of Egypt?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cairo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Cairo Egypt"
+
+      - question: "What is the capital of Qatar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Doha"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Doha Qatar"
+
