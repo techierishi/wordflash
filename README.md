@@ -29,6 +29,11 @@ To skip image approval and auto-download first matches:
 uv run wordflash data/kids_learning.yaml --type quiz --no-image-approval
 ```
 
+**Linux Requirements**: If image viewer fails, install:
+```bash
+sudo apt install xdg-utils  # or eog for Eye of GNOME
+```
+
 ## YAML Format
 
 ```yaml

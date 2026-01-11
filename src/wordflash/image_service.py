@@ -1,4 +1,5 @@
 import hashlib
+import platform
 import subprocess
 import tempfile
 from pathlib import Path
@@ -68,16 +69,7 @@ class ImageService:
         self, image_path: str, search_term: str, attempt: int
     ) -> bool:
         print(f"\n  Showing image {attempt}...")
-        try:
-            subprocess.Popen(["eog", image_path], stdout=subprocess.DEVNULL)
-        except FileNotFoundError:
-            try:
-                subprocess.Popen(["display", image_path], stdout=subprocess.DEVNULL)
-            except FileNotFoundError:
-                try:
-                    subprocess.Popen(["feh", image_path], stdout=subprocess.DEVNULL)
-                except FileNotFoundError:
-                    print(f"  [Image saved temporarily - no viewer found]")
+        self._open_image(image_path)
 
         while True:
             approval = (
@@ -93,6 +85,36 @@ class ImageService:
                 return False
             else:
                 print("  Enter 'y', 'n', or 'skip'")
+
+    def _open_image(self, image_path: str) -> None:
+        system = platform.system()
+        try:
+            if system == "Darwin":
+                subprocess.run(["open", image_path], check=True, timeout=5)
+            elif system == "Windows":
+                subprocess.run(["start", image_path], shell=True, check=True, timeout=5)
+            elif system == "Linux":
+                self._open_image_linux(image_path)
+            else:
+                print(f"  [Image saved temporarily - unsupported OS: {system}]")
+        except subprocess.TimeoutExpired:
+            print(f"  [Image viewer timed out]")
+        except Exception as e:
+            print(f"  [Could not open image: {e}]")
+
+    def _open_image_linux(self, image_path: str) -> None:
+        viewers = ["xdg-open", "eog", "display", "feh", "gpicview", "geeqie"]
+        for viewer in viewers:
+            try:
+                subprocess.Popen(
+                    [viewer, image_path],
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.DEVNULL,
+                )
+                return
+            except FileNotFoundError:
+                continue
+        print(f"  [Image saved temporarily - no viewer found. Install: apt install eog]")
 
     def _save_image(self, image_url: str, image_path: Path) -> Optional[str]:
         try:
