@@ -14,14 +14,16 @@ class FlashcardGenerator:
         deck_name: str = "WordFlash Deck",
         source_lang: str = "de",
         target_lang: str = "en",
+        clipboard_only: bool = False,
     ):
         self.output_dir = Path(output_dir)
         self.deck_name = deck_name
         self.source_lang = source_lang
         self.target_lang = target_lang
+        self.clipboard_only = clipboard_only
 
         self.word_loader = WordLoader(source_lang, target_lang)
-        self.image_service = ImageService(self.output_dir)
+        self.image_service = ImageService(self.output_dir, clipboard_only=clipboard_only)
         self.audio_service = AudioService(self.output_dir, source_lang)
         self.anki_generator = AnkiGenerator(deck_name)
 

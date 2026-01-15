@@ -19,15 +19,17 @@ class QuizFlashcardGenerator:
         question_lang: str = "en",
         answer_lang: str = "en",
         manual_image_approval: bool = True,
+        clipboard_only: bool = False,
     ):
         self.output_dir = Path(output_dir)
         self.deck_name = deck_name
         self.question_lang = question_lang
         self.answer_lang = answer_lang
         self.manual_image_approval = manual_image_approval
+        self.clipboard_only = clipboard_only
 
         self.quiz_loader = QuizLoader()
-        self.image_service = ImageService(self.output_dir)
+        self.image_service = ImageService(self.output_dir, clipboard_only=clipboard_only)
         self.audio_service = AudioService(self.output_dir, language=question_lang)
         self.anki_generator = AnkiGenerator(deck_name, card_type="quiz")
 

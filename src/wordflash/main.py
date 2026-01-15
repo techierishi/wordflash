@@ -70,6 +70,11 @@ def main():
         action="store_true",
         help="Skip manual image approval (auto-download first match)",
     )
+    parser.add_argument(
+        "--clipboard-only",
+        action="store_true",
+        help="Only use clipboard for image input (skip Pixabay and Wikipedia)",
+    )
 
     args = parser.parse_args()
 
@@ -95,6 +100,7 @@ def main():
                 question_lang=args.question_lang,
                 answer_lang=args.answer_lang,
                 manual_image_approval=not args.no_image_approval,
+                clipboard_only=args.clipboard_only,
             )
         else:  # vocab
             generator = FlashcardGenerator(
@@ -102,6 +108,7 @@ def main():
                 deck_name=args.deck_name,
                 source_lang=args.source_lang,
                 target_lang=args.target_lang,
+                clipboard_only=args.clipboard_only,
             )
 
         generator.generate_from_yaml(input_path)

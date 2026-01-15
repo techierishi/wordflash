@@ -1,0 +1,266 @@
+quizzes:
+  - category: "Indian History"
+    questions:
+      - question: "Who is called the Nightingale of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sarojini Naidu"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Sarojini Naidu"
+
+      - question: "Who was the first President of independent India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dr. Rajendra Prasad"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dr. Rajendra Prasad"
+
+      - question: "Who was the founder of the Maurya Empire?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chandragupta Maurya"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Chandragupta Maurya"
+
+      - question: "Who wrote the book Arthashastra?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chanakya"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Chanakya"
+
+      - question: "Which Mughal emperor built the Taj Mahal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Shah Jahan"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Shah Jahan"
+
+      - question: "Who was known as the Iron Man of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sardar Vallabhbhai Patel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Sardar Vallabhbhai Patel"
+
+      - question: "Who led the Dandi March in 1930?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mahatma Gandhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mahatma Gandhi"
+
+      - question: "Who was the last Mughal emperor of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bahadur Shah Zafar"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bahadur Shah Zafar"
+
+      - question: "In which year did India gain independence?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "1947"
+        answer_media: {text: true, audio: true, image: false}
+        answer_image_search_term: "Indian Independence 1947"
+
+      - question: "Who was the first Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jawaharlal Nehru"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jawaharlal Nehru"
+
+      - question: "Which battle marked the beginning of British rule in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Battle of Plassey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Battle of Plassey"
+
+      - question: "Who introduced the policy of Doctrine of Lapse?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lord Dalhousie"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Lord Dalhousie"
+
+      - question: "Who was the founder of the Gupta Empire?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sri Gupta"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Sri Gupta"
+
+      - question: "Which freedom fighter gave the slogan 'Inquilab Zindabad'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bhagat Singh"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bhagat Singh"
+
+      - question: "Who was the first woman ruler of Delhi Sultanate?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Razia Sultana"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Razia Sultana"
+
+      - question: "Which ancient Indian university was located in Bihar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Nalanda University"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Nalanda University"
+
+      - question: "Who was the author of Ramayana?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Valmiki"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Valmiki"
+
+      - question: "Who was known as the Grand Old Man of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dadabhai Naoroji"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dadabhai Naoroji"
+
+      - question: "Which movement was started by Mahatma Gandhi in 1942?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Quit India Movement"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Quit India Movement"
+
+      - question: "Who was the first Governor-General of independent India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lord Mountbatten"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Lord Mountbatten"
+
+      - question: "Who built the Qutub Minar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Qutbuddin Aibak"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Qutb Minar"
+
+      - question: "Which dynasty built the Khajuraho temples?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chandela Dynasty"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Khajuraho Temples"
+
+      - question: "Who was the first Indian to win a Nobel Prize?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rabindranath Tagore"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Rabindranath Tagore"
+
+      - question: "Who founded the Brahmo Samaj?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Raja Ram Mohan Roy"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Raja Ram Mohan Roy"
+
+      - question: "Which empire was ruled by Ashoka?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Maurya Empire"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ashoka the Great"
+
+      - question: "Who discovered the Indus Valley Civilization?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Daya Ram Sahni"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Indus Valley Civilization excavation"
+
+      - question: "Which Veda is the oldest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rigveda"
+        answer_media: {text: true, audio: true, image: false}
+        answer_image_search_term: "Rigveda"
+
+      - question: "Who was the founder of Sikhism?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Guru Nanak"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Guru Nanak"
+
+      - question: "Which war led to the end of the East India Company rule?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Revolt of 1857"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Revolt of 1857"
+
+      - question: "Who built the Red Fort in Delhi?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Shah Jahan"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Red Fort Delhi"
+
+      - question: "Who was known as Lokmanya?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bal Gangadhar Tilak"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bal Gangadhar Tilak"
+
+      - question: "Which ancient text is known as the Indian Constitution of ancient times?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Manusmriti"
+        answer_media: {text: true, audio: true, image: false}
+        answer_image_search_term: "Manusmriti"
+
+      - question: "Who was the first woman Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Indira Gandhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Indira Gandhi"
+
+      - question: "Which movement is associated with Indigo farmers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Indigo Revolt"
+        answer_media: {text: true, audio: true, image: false}
+        answer_image_search_term: "Indigo Revolt"
+
+      - question: "Who composed Vande Mataram?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bankim Chandra Chatterjee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Bankim Chandra Chatterjee"
+
+      - question: "Which dynasty built the Sun Temple at Konark?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eastern Ganga Dynasty"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Konark Sun Temple"
+
+      - question: "Who was the first Indian woman freedom fighter?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rani Lakshmibai"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Rani Lakshmibai"
+
+      - question: "Who founded the Indian National Congress?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A.O. Hume"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "A O Hume"
+
+      - question: "Which empire was known for rock-cut architecture like Ajanta caves?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vakataka Empire"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ajanta Caves"
+
+      - question: "Who gave the slogan 'Jai Jawan Jai Kisan'?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lal Bahadur Shastri"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Lal Bahadur Shastri"
+
+      - question: "Who was the first Indian Governor-General of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "C. Rajagopalachari"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "C Rajagopalachari"
+
+      - question: "Which ancient civilization flourished along the Indus River?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Harappan Civilization"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Harappan Civilization"
+
+      - question: "Who was the author of Mahabharata?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ved Vyasa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ved Vyasa"
+
+      - question: "Which act divided Bengal in 1905?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Partition of Bengal Act"
+        answer_media: {text: true, audio: true, image: false}
+        answer_image_search_term: "Partition of Bengal 1905"
