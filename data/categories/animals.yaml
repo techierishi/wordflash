@@ -121,3 +121,524 @@ quizzes:
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "elephant heavy"
 
+      - question: "Which animal is called the king of the jungle?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion"
+
+      - question: "Which animal gives us milk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cow"
+
+      - question: "Which animal barks?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dog"
+
+      - question: "Which animal meows?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cat"
+
+      - question: "Which animal is very big and has a trunk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elephant"
+
+      - question: "Which animal lives in water and has fins?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fish"
+
+      - question: "Which animal hops and has long ears?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rabbit"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rabbit"
+
+      - question: "Which animal has black and white stripes?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Zebra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "zebra"
+
+      - question: "Which animal says moo?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cow animal"
+
+      - question: "Which animal says neigh?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Horse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "horse"
+
+      - question: "Which animal has a long neck?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe"
+
+      - question: "Which animal lives in a den?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion den"
+
+      - question: "Which animal can fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bird flying"
+
+      - question: "Which animal lays eggs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hen"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hen eggs"
+
+      - question: "Which animal has sharp claws and hunts?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tiger"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tiger"
+
+      - question: "Which animal lives in the desert?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Camel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "camel desert"
+
+      - question: "Which animal is known for its shell?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Turtle"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "turtle shell"
+
+      - question: "Which animal gives us wool?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sheep"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sheep"
+
+      - question: "Which animal is very slow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Snail"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "snail"
+
+      - question: "Which animal can change its color?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chameleon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "chameleon"
+
+      - question: "Which animal lives in the ocean and is very large?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Whale"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "whale"
+
+      - question: "Which animal has eight legs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spider"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spider"
+
+      - question: "Which animal is known for building dams?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Beaver"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "beaver dam"
+
+      - question: "Which animal carries its baby in a pouch?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kangaroo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo pouch"
+
+      - question: "Which animal is pink and likes mud?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pig"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pig mud"
+
+      - question: "Which animal is known as man's best friend?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dog pet"
+
+      - question: "Which animal lives in a hive?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bee hive"
+
+      - question: "Which animal has horns?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Goat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "goat horns"
+
+      - question: "Which animal is green and jumps?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Frog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "frog"
+
+      - question: "Which animal crawls and has no legs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Snake"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "snake"
+
+      - question: "Which animal has a bushy tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Squirrel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "squirrel tail"
+
+      - question: "Which animal lives on a farm and says oink?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pig"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pig farm"
+
+      - question: "Which animal can swim and walk on land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Duck"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "duck swimming"
+
+      - question: "Which animal is known for its spots?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Leopard"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "leopard spots"
+
+      - question: "Which animal gives us eggs and meat?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hen"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hen chicken"
+
+      - question: "Which animal has a hard shell and walks slowly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tortoise"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tortoise"
+
+      - question: "Which animal howls at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wolf"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wolf howling"
+
+      - question: "Which animal has feathers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bird"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bird feathers"
+
+      - question: "Which animal is small and makes honey?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "honey bee"
+
+      - question: "Which animal lives in trees?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Monkey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "monkey tree"
+
+      - question: "Which animal has strong claws and climbs trees?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bear"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bear climbing tree"
+
+      - question: "Which animal is known for its long ears?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rabbit"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rabbit ears"
+
+      - question: "Which animal is black and white and eats bamboo?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Panda"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "panda bamboo"
+
+      - question: "Which animal lives in cold places and waddles?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Penguin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "penguin"
+
+      - question: "Which animal is very fast and runs in grasslands?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cheetah"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cheetah running"
+
+      - question: "Which animal has antlers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Deer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "deer antlers"
+
+      - question: "Which animal makes a buzzing sound?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bee flying"
+
+      - question: "Which animal is small, furry, and squeaks?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mouse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "mouse animal"
+
+      - question: "Which animal is known as the king of the jungle?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lion"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lion"
+
+      - question: "Which bird can mimic human speech?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Parrot"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "parrot"
+
+      - question: "Which animal gives us milk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cow"
+
+      - question: "Which insect makes honey?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "honey bee"
+
+      - question: "Which animal is the largest mammal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Blue whale"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "blue whale"
+
+      - question: "Which animal hops and has a pouch?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kangaroo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo"
+
+      - question: "Which bird is known for its long neck?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ostrich"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ostrich"
+
+      - question: "Which animal has a trunk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elephant"
+
+      - question: "Which animal lives in water and has fins?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fish"
+
+      - question: "Which insect has colorful wings?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Butterfly"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "butterfly"
+
+      - question: "Which animal carries its baby on its back?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Frog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "frog carrying baby"
+
+      - question: "Which animal is known for making a web?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spider"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spider web"
+
+      - question: "Which animal has black and white stripes?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Zebra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "zebra"
+
+      - question: "Which bird cannot fly but runs very fast?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ostrich"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ostrich running"
+
+      - question: "Which animal is famous for its shell?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Turtle"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "turtle"
+
+      - question: "Which animal is called man's best friend?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dog"
+
+      - question: "Which animal can change its color to blend with surroundings?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chameleon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "chameleon"
+
+      - question: "Which bird lays eggs and swims in water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Duck"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "duck"
+
+      - question: "Which animal is slow and carries a house on its back?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Snail"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "snail"
+
+      - question: "Which animal is known for its long neck and spots?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Giraffe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "giraffe"
+
+      - question: "Which animal has sharp quills for protection?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Porcupine"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "porcupine"
+
+      - question: "Which animal swims in the ocean and has a dorsal fin?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Shark"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "shark"
+
+      - question: "Which insect lights up at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Firefly"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "firefly"
+
+      - question: "Which animal is known for building dams?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Beaver"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "beaver dam"
+
+      - question: "Which animal has a long trunk and big ears?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elephant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elephant trunk"
+
+      - question: "Which animal carries water in its hump?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Camel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "camel hump"
+
+      - question: "Which bird is known for its colorful feathers and tail?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Peacock"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "peacock"
+
+      - question: "Which animal lives in the Arctic and has white fur?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Polar bear"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "polar bear"
+
+      - question: "Which animal carries its baby in a pouch?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kangaroo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo pouch"
+
+      - question: "Which animal has eight legs and spins webs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spider"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spider web"
+
+      - question: "Which bird is a symbol of peace?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dove"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dove"
+
+      - question: "Which animal hops and lives in ponds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Frog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "frog pond"
+
+      - question: "Which animal is known for spinning silk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Silkworm"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "silkworm"
+
+      - question: "Which animal has a shell and moves slowly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Turtle"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "turtle slow"
+
+      - question: "Which insect makes buzzing sounds and flies around flowers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bee flower"
+
+      - question: "Which animal is black and white and eats bamboo?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Panda"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "panda eating bamboo"
+
+      - question: "Which animal swims and has a blowhole?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dolphin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "dolphin"
+
+      - question: "Which insect has three body parts and six legs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Insect"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "insect diagram"
+
+      - question: "Which animal can fly at night and uses echolocation?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bat"

@@ -3,186 +3,186 @@ quizzes:
     questions:
       - question: "Who is this person who led India to independence through non-violence?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Mahatma Gandhi – Leader of the Indian freedom struggle who pioneered non-violent resistance and inspired global civil rights movements."
+        answer: "Mahatma Gandhi - Leader of the Indian freedom struggle who pioneered non-violent resistance and inspired global civil rights movements."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Mahatma Gandhi"
 
       - question: "Who is this person known as the Missile Man of India?"
         question_media: {text: true, audio: true, image: false}
-        answer: "A. P. J. Abdul Kalam – Renowned scientist and former President of India who played a key role in India's missile and space programs."
+        answer: "A. P. J. Abdul Kalam - Renowned scientist and former President of India who played a key role in India's missile and space programs."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "APJ Abdul Kalam"
 
       - question: "Who is this person who unified the princely states of India?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Sardar Vallabhbhai Patel – Indian leader who integrated over 500 princely states into the Indian Union."
+        answer: "Sardar Vallabhbhai Patel - Indian leader who integrated over 500 princely states into the Indian Union."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Sardar Vallabhbhai Patel"
 
       - question: "Who is this person who was India's first Prime Minister?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Jawaharlal Nehru – Architect of modern India who promoted democracy, science, and industrial development."
+        answer: "Jawaharlal Nehru - Architect of modern India who promoted democracy, science, and industrial development."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Jawaharlal Nehru"
 
       - question: "Who is this person who wrote the Indian Constitution?"
         question_media: {text: true, audio: true, image: false}
-        answer: "B. R. Ambedkar – Chief architect of the Indian Constitution and a champion of social justice and equality."
+        answer: "B. R. Ambedkar - Chief architect of the Indian Constitution and a champion of social justice and equality."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "BR Ambedkar"
 
       - question: "Who is this person known as the Nightingale of India?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Sarojini Naidu – Poet, freedom fighter, and the first woman Governor of an Indian state."
+        answer: "Sarojini Naidu - Poet, freedom fighter, and the first woman Governor of an Indian state."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Sarojini Naidu"
 
       - question: "Who is this person who founded the Maurya Empire?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Chandragupta Maurya – Founder of one of India's greatest ancient empires."
+        answer: "Chandragupta Maurya - Founder of one of India's greatest ancient empires."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Chandragupta Maurya"
 
       - question: "Who is this person who spread Buddhism across Asia?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Ashoka the Great – Mauryan emperor who promoted peace, morality, and Buddhism."
+        answer: "Ashoka the Great - Mauryan emperor who promoted peace, morality, and Buddhism."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Ashoka the Great"
 
       - question: "Who is this person who wrote the Ramayana?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Valmiki – Ancient sage and author of the epic Ramayana."
+        answer: "Valmiki - Ancient sage and author of the epic Ramayana."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Valmiki"
 
       - question: "Who is this person who founded Sikhism?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Guru Nanak – Spiritual leader who preached equality, devotion, and social harmony."
+        answer: "Guru Nanak - Spiritual leader who preached equality, devotion, and social harmony."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Guru Nanak"
 
       - question: "Who is this person who composed India's national anthem?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Rabindranath Tagore – Nobel Prize-winning poet, philosopher, and educationist."
+        answer: "Rabindranath Tagore - Nobel Prize-winning poet, philosopher, and educationist."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Rabindranath Tagore"
 
       - question: "Who is this person who pioneered surgery in ancient India?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Sushruta – Ancient physician known as the father of surgery."
+        answer: "Sushruta - Ancient physician known as the father of surgery."
         answer_media: {text: true, audio: true, image: false}
         answer_image_search_term: "Sushruta"
 
       - question: "Who is this person who introduced zero and decimal system concepts?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Aryabhata – Mathematician and astronomer who made foundational contributions to science."
+        answer: "Aryabhata - Mathematician and astronomer who made foundational contributions to science."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Aryabhata"
 
       - question: "Who is this person who built the Taj Mahal?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Shah Jahan – Mughal emperor known for architectural excellence."
+        answer: "Shah Jahan - Mughal emperor known for architectural excellence."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Shah Jahan"
 
       - question: "Who is this person who led the Revolt of 1857 from Jhansi?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Rani Lakshmibai – Brave queen and symbol of resistance against British rule."
+        answer: "Rani Lakshmibai - Brave queen and symbol of resistance against British rule."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Rani Lakshmibai"
 
       - question: "Who is this person who developed the theory of relativity?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Albert Einstein – Physicist who transformed modern science with relativity."
+        answer: "Albert Einstein - Physicist who transformed modern science with relativity."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Albert Einstein"
 
       - question: "Who is this person who discovered gravity?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Isaac Newton – Scientist who formulated laws of motion and gravity."
+        answer: "Isaac Newton - Scientist who formulated laws of motion and gravity."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Isaac Newton"
 
       - question: "Who is this person who invented the telephone?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Alexander Graham Bell – Inventor who revolutionized communication."
+        answer: "Alexander Graham Bell - Inventor who revolutionized communication."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Alexander Graham Bell"
 
       - question: "Who is this person who invented the light bulb?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Thomas Edison – Prolific inventor who advanced electric lighting."
+        answer: "Thomas Edison - Prolific inventor who advanced electric lighting."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Thomas Edison"
 
       - question: "Who is this person who pioneered modern computing concepts?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Alan Turing – Mathematician who laid the foundations of computer science and artificial intelligence."
+        answer: "Alan Turing - Mathematician who laid the foundations of computer science and artificial intelligence."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Alan Turing"
 
       - question: "Who is this person who discovered penicillin?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Alexander Fleming – Scientist whose discovery saved millions of lives."
+        answer: "Alexander Fleming - Scientist whose discovery saved millions of lives."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Alexander Fleming"
 
       - question: "Who is this person who proposed evolution by natural selection?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Charles Darwin – Biologist who explained the origin and diversity of life."
+        answer: "Charles Darwin - Biologist who explained the origin and diversity of life."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Charles Darwin"
 
       - question: "Who is this person who was the first woman to win a Nobel Prize?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Marie Curie – Scientist who made groundbreaking discoveries in radioactivity."
+        answer: "Marie Curie - Scientist who made groundbreaking discoveries in radioactivity."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Marie Curie"
 
       - question: "Who is this person who championed civil rights in the United States?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Martin Luther King Jr. – Leader who fought racial discrimination through non-violence."
+        answer: "Martin Luther King Jr. - Leader who fought racial discrimination through non-violence."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Martin Luther King Jr"
 
       - question: "Who is this person who ended apartheid in South Africa?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Nelson Mandela – Leader who promoted reconciliation and equality."
+        answer: "Nelson Mandela - Leader who promoted reconciliation and equality."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Nelson Mandela"
 
       - question: "Who is this person who was the first man to walk on the Moon?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Neil Armstrong – Astronaut who led humanity’s first lunar landing."
+        answer: "Neil Armstrong - Astronaut who led humanity’s first lunar landing."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Neil Armstrong"
 
       - question: "Who is this person who founded Microsoft?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Bill Gates – Technologist and philanthropist who shaped the personal computer era."
+        answer: "Bill Gates - Technologist and philanthropist who shaped the personal computer era."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Bill Gates"
 
       - question: "Who is this person who founded Apple and revolutionized consumer technology?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Steve Jobs – Visionary entrepreneur who transformed electronics and design."
+        answer: "Steve Jobs - Visionary entrepreneur who transformed electronics and design."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Steve Jobs"
 
       - question: "Who is this person who wrote Romeo and Juliet?"
         question_media: {text: true, audio: true, image: false}
-        answer: "William Shakespeare – Playwright and poet who shaped English literature."
+        answer: "William Shakespeare - Playwright and poet who shaped English literature."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "William Shakespeare"
 
       - question: "Who is this person who explored America in 1492?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Christopher Columbus – Explorer who connected Europe and the Americas."
+        answer: "Christopher Columbus - Explorer who connected Europe and the Americas."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Christopher Columbus"
 
       - question: "Who is this person who led France during the French Revolution?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Napoleon Bonaparte – Military leader who reshaped Europe."
+        answer: "Napoleon Bonaparte - Military leader who reshaped Europe."
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Napoleon Bonaparte"

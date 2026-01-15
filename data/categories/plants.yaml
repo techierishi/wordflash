@@ -120,3 +120,266 @@ quizzes:
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "fall autumn leaves falling"
 
+      - question: "Which part of the plant grows under the ground?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Root"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant root"
+
+      - question: "Which part of the plant makes food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Leaf"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant leaf"
+
+      - question: "Which part of the plant holds it upright?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Stem"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant stem"
+
+      - question: "Which part of the plant turns into a fruit?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Flower"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flower plant"
+
+      - question: "What do plants need to grow?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "watering plants"
+
+      - question: "Which gas do plants need from air?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Carbon dioxide"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plants carbon dioxide"
+
+      - question: "Which plant gives us fruits like apples?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fruit tree"
+
+      - question: "Which plant gives us vegetables like carrots?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "vegetable plant"
+
+      - question: "Which plant has thorns?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rose"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rose thorns"
+
+      - question: "Which plant grows very tall and gives shade?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "big tree shade"
+
+      - question: "Which plant grows in water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lotus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lotus plant"
+
+      - question: "Which plant gives us wood?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wood tree"
+
+      - question: "Which plant is very small and soft?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Grass"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "grass plant"
+
+      - question: "Which part of the plant holds seeds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fruit"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fruit seeds"
+
+      - question: "Which plant gives us cotton?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cotton plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cotton plant"
+
+      - question: "Which plant gives us sugar?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sugarcane"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sugarcane plant"
+
+      - question: "Which plant gives us tea leaves?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tea plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tea plant"
+
+      - question: "Which plant gives us coffee beans?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Coffee plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "coffee plant"
+
+      - question: "Which plant is used to make paper?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "paper from trees"
+
+      - question: "Which plant gives us oxygen?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Green plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "green plants oxygen"
+
+      - question: "Which plant grows in a desert?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cactus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cactus desert"
+
+      - question: "Which plant has broad green leaves?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Banana plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "banana plant leaves"
+
+      - question: "Which plant gives us rice?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Paddy plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "paddy rice plant"
+
+      - question: "Which plant gives us wheat?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wheat plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wheat plant"
+
+      - question: "Which plant is used to make medicines?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Medicinal plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "medicinal plants"
+
+      - question: "Which plant has needles instead of leaves?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pine"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pine tree needles"
+
+      - question: "Which plant creeps on the ground?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Creeper"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "creeper plant"
+
+      - question: "Which plant needs support to grow up?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Climber"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "climber plant"
+
+      - question: "Which plant has a strong smell and is used in cooking?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Herbs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cooking herbs"
+
+      - question: "Which plant grows from seeds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Most plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant seeds growth"
+
+      - question: "Which plant is very tall and thin like grass?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bamboo plant"
+
+      - question: "Which plant has colorful flowers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Flowering plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "colorful flowers"
+
+      - question: "Which plant gives us oil from seeds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sunflower"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sunflower seeds oil"
+
+      - question: "Which plant closes its leaves when touched?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Touch-me-not"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "touch me not plant"
+
+      - question: "Which plant grows in cold regions?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pine"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pine tree snow"
+
+      - question: "Which plant is used to decorate gardens?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ornamental plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ornamental garden plants"
+
+      - question: "Which plant gives us rubber?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rubber plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rubber plant tree"
+
+      - question: "Which plant has thick leaves to store water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cactus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cactus thick leaves"
+
+      - question: "Which plant gives us spices?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spice plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spice plants"
+
+      - question: "Which plant grows in pots at home?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "House plants"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "house plants"
+
+      - question: "Which plant gives us oxygen and shade?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tree"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tree shade oxygen"
+
+      - question: "Which plant has seeds inside a fruit?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Flowering plant"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "flowering plant fruit"
+
+      - question: "Which plant grows very fast?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bamboo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fast growing bamboo"
+
+      - question: "Which plant is green and covers the ground?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Grass"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "green grass ground"

@@ -1,0 +1,260 @@
+quizzes:
+  - category: "Science Basics"
+    questions:
+      - question: "What do we breathe to stay alive?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Air"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "air atmosphere"
+
+      - question: "What do plants need to make food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sunlight"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sunlight plants"
+
+      - question: "What do we call frozen water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ice"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ice cubes"
+
+      - question: "What do we call water that falls from clouds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rain"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rain falling"
+
+      - question: "Which sense helps us see?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sight"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sense of sight"
+
+      - question: "Which sense helps us hear?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hearing"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sense of hearing"
+
+      - question: "Which sense helps us smell?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Smell"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sense of smell"
+
+      - question: "Which sense helps us taste?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Taste"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sense of taste"
+
+      - question: "Which sense helps us feel touch?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Touch"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sense of touch"
+
+      - question: "What do we call the change from day to night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Earth's rotation"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth rotation day night"
+
+      - question: "What gives us heat and light?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sun"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sun heat light"
+
+      - question: "What do we call moving air?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wind"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wind blowing"
+
+      - question: "What do magnets attract?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Iron"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "magnet iron"
+
+      - question: "Which object floats on water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wood"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wood floating water"
+
+      - question: "Which object sinks in water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Stone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "stone sinking water"
+
+      - question: "What do we call very hot weather?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Summer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "summer season"
+
+      - question: "What season is very cold?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Winter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "winter season"
+
+      - question: "Which season comes after winter?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spring"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spring season"
+
+      - question: "Which season has falling leaves?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Autumn"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "autumn leaves"
+
+      - question: "What do we call water vapor in the air?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Clouds"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "clouds sky"
+
+      - question: "What do we use to measure temperature?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Thermometer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "thermometer"
+
+      - question: "Which part of the body helps us breathe?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lungs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lungs diagram"
+
+      - question: "What do we call the hard part inside bones?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Skeleton"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human skeleton"
+
+      - question: "What do we call animals that live on land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Land animals"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "land animals"
+
+      - question: "What do we call animals that live in water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water animals"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "water animals"
+
+      - question: "What do we call animals that can fly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Birds"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "birds flying"
+
+      - question: "What do we call baby plants?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seedlings"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plant seedlings"
+
+      - question: "What helps plants grow strong?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Soil"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "soil plants"
+
+      - question: "What do we call the star closest to Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sun"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sun star"
+
+      - question: "What do we call the natural home of animals?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Habitat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "animal habitat"
+
+      - question: "What makes shadows?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Light"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "shadow light"
+
+      - question: "What do we call energy from the Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Solar energy"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "solar energy sun"
+
+      - question: "Which object gives us light at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "moon night"
+
+      - question: "What do we call the force that pulls things down?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Gravity"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "gravity force"
+
+      - question: "What do we use to see very small things?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Magnifying glass"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "magnifying glass"
+
+      - question: "What do we call clean drinking water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fresh water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fresh water"
+
+      - question: "What do we call dirty air?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pollution"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "air pollution"
+
+      - question: "What helps us stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Exercise"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kids exercise"
+
+      - question: "What do we call things made by humans?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Man-made things"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "man made objects"
+
+      - question: "What do we call things found in nature?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Natural things"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "natural things"
+
+      - question: "What do we use to hear sounds louder?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ears"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human ears"
+
+      - question: "What do we call the study of living things?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Science"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "science for kids"
+
+      - question: "What do we call water changing into gas?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Evaporation"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "evaporation water"

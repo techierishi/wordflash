@@ -59,3 +59,287 @@ quizzes:
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "human lungs breathing"
 
+      - question: "What organ breaks down food in your stomach?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Stomach"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human stomach organ"
+
+      - question: "What organ produces insulin?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pancreas"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human pancreas"
+
+      - question: "What organ filters blood to remove waste?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Kidney"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human kidney"
+
+      - question: "What is your largest internal organ?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Liver"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human liver organ"
+
+      - question: "What organ stores bile to help digest fats?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Gallbladder"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human gallbladder"
+
+      - question: "What organ produces hormones like adrenaline?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Adrenal glands"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "adrenal glands"
+
+      - question: "What gland in your neck controls metabolism?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Thyroid"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human thyroid gland"
+
+      - question: "What is the main part of your brain?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cerebrum"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human brain cerebrum"
+
+      - question: "What connects your brain to the rest of your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spinal cord"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human spinal cord"
+
+      - question: "How many muscles do humans have?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Over 600"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What blood vessels carry blood away from the heart?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Arteries"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human arteries blood vessels"
+
+      - question: "What blood vessels return blood to the heart?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Veins"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human veins blood vessels"
+
+      - question: "What small blood vessels exchange oxygen with cells?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Capillaries"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human capillaries blood vessels"
+
+      - question: "What prevents food from going into your lungs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Epiglottis"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "epiglottis throat"
+
+      - question: "What is the tube that carries urine from the kidney?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ureter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ureter anatomy"
+
+      - question: "What organ stores urine?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bladder"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human bladder"
+
+      - question: "What is the longest part of the small intestine?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ileum"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "What organ produces red and white blood cells?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bone marrow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "bone marrow"
+
+      - question: "What is the large tube that carries food to the stomach?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Esophagus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human esophagus"
+
+      - question: "What gland produces saliva in your mouth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Salivary glands"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "salivary glands"
+
+      - question: "What is the voice box in your throat?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Larynx"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "larynx voice box"
+
+      - question: "What is the windpipe that carries air to the lungs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Trachea"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human trachea windpipe"
+
+      - question: "What are the two chambers at the bottom of the heart called?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ventricles"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "heart ventricles"
+
+      - question: "What are the two chambers at the top of the heart called?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Atria"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "heart atria chambers"
+
+      - question: "What is the largest artery in your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Aorta"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human aorta"
+
+      - question: "What gland controls growth and development?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pituitary gland"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "pituitary gland"
+
+      - question: "What part of the brain controls balance and coordination?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cerebellum"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cerebellum brain"
+
+      - question: "What protective fluid surrounds the brain and spinal cord?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cerebrospinal fluid"
+        answer_media: {text: true, audio: true, image: false}
+
+      - question: "Which body part helps you see?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eyes"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human eyes"
+
+      - question: "Which body part helps you hear?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ears"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human ears"
+
+      - question: "Which body part helps you smell?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Nose"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human nose"
+
+      - question: "Which body part helps you taste food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tongue"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human tongue"
+
+      - question: "Which body part helps you walk?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Legs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human legs"
+
+      - question: "Which body part helps you hold things?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hands"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human hands"
+
+      - question: "Which body part pumps blood?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Heart"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human heart diagram"
+
+      - question: "Which body part helps you think?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brain"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human brain"
+
+      - question: "Which body part helps you breathe?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lungs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human lungs"
+
+      - question: "Which body part bends your arm?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Elbow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "elbow joint"
+
+      - question: "Which body part bends your leg?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Knee"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "knee joint"
+
+      - question: "Which body part covers your whole body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Skin"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human skin"
+
+      - question: "Which body part helps you chew food?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Teeth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human teeth"
+
+      - question: "Which body part is at the top of your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Head"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human head"
+
+      - question: "Which body part helps you write?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fingers"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human fingers"
+
+      - question: "Which body part connects your head to your body?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Neck"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human neck"
+
+      - question: "Which body part helps you sit straight?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Back"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human back"
+
+      - question: "Which body part helps you kick a ball?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Feet"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human feet"
+
+      - question: "Which body part blinks?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eyes"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "blinking eyes"
+
+      - question: "Which body part holds your teeth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mouth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "human mouth"

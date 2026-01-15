@@ -1,0 +1,260 @@
+quizzes:
+  - category: "Geography"
+    questions:
+      - question: "How many continents are there in the world?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Seven"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "world continents map"
+
+      - question: "Which continent do we live on?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Asia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Asia continent map"
+
+      - question: "What is the capital of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "New Delhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "New Delhi city"
+
+      - question: "What is the capital of the United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Washington, D.C."
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Washington DC"
+
+      - question: "Which is the largest continent?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Asia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Asia continent"
+
+      - question: "Which is the smallest continent?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Australia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Australia continent"
+
+      - question: "How many oceans are there?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Five"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "world oceans map"
+
+      - question: "Which is the largest ocean?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pacific Ocean"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Pacific Ocean map"
+
+      - question: "Which ocean is closest to India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Indian Ocean"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Indian Ocean map"
+
+      - question: "Which direction does the Sun rise from?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "East"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "compass east"
+
+      - question: "Which direction does the Sun set in?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "West"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "compass west"
+
+      - question: "What do we use to find directions?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Compass"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "compass directions"
+
+      - question: "Which country is known as the Land of the Rising Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Japan"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Japan country"
+
+      - question: "Which country has the Eiffel Tower?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "France"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Eiffel Tower France"
+
+      - question: "Which country has the Great Wall?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "China"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Great Wall of China"
+
+      - question: "Which country has the Taj Mahal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "India"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Taj Mahal India"
+
+      - question: "What is a map?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A drawing of Earth or places"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "world map"
+
+      - question: "What is a globe?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "A round model of Earth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth globe"
+
+      - question: "Which country is our neighbor?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pakistan"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "India Pakistan map"
+
+      - question: "Which continent is very cold?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Antarctica"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Antarctica ice"
+
+      - question: "Which continent has deserts?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Africa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Africa desert"
+
+      - question: "Which continent has many countries?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Europe"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Europe map"
+
+      - question: "Which continent is also a country?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Australia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Australia map"
+
+      - question: "Which river is the longest in the world?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Nile River"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Nile River map"
+
+      - question: "Which river is the longest in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ganga"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Ganga river"
+
+      - question: "Which is the highest mountain in the world?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mount Everest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mount Everest"
+
+      - question: "Which country has the largest population?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "India"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "India population map"
+
+      - question: "Which country is famous for kangaroos?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Australia"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "kangaroo Australia"
+
+      - question: "Which country is shaped like a boot?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Italy"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Italy map boot"
+
+      - question: "Which country has pyramids?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Egypt"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Egypt pyramids"
+
+      - question: "What do we call land surrounded by water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Island"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "island geography"
+
+      - question: "What do we call water surrounded by land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lake"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lake"
+
+      - question: "Which place is called the North Pole?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Arctic"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Arctic North Pole"
+
+      - question: "Which place is called the South Pole?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Antarctica"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Antarctica South Pole"
+
+      - question: "Which country has Big Ben?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "United Kingdom"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Big Ben London"
+
+      - question: "Which country has Statue of Liberty?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "United States"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Statue of Liberty"
+
+      - question: "What do we call a large area with many trees?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Forest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "forest trees"
+
+      - question: "Which country is famous for pizza?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Italy"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Italy pizza"
+
+      - question: "Which country is famous for chocolates?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Switzerland"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Switzerland chocolate"
+
+      - question: "Which continent is called the Dark Continent?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Africa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Africa continent"
+
+      - question: "Which line divides Earth into North and South?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Equator"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "equator line map"
+
+      - question: "Which country is known for the Maple Leaf?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Canada"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Canada maple leaf"
+
+      - question: "Which country has the Amazon rainforest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brazil"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Amazon rainforest Brazil"

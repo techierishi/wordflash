@@ -1,0 +1,206 @@
+quizzes:
+  - category: "Health & Well-Being"
+    questions:
+      - question: "Which food is good for strong bones?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Milk"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "milk glass"
+
+      - question: "Which activity keeps your body fit?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Exercise"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "children exercising"
+
+      - question: "Which fruit is yellow and rich in vitamins?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Banana"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "banana fruit"
+
+      - question: "Which food should you eat less to stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Junk food"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "junk food"
+
+      - question: "Which part of the body helps you breathe?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Lungs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "lungs diagram"
+
+      - question: "What should you do before eating to keep germs away?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wash hands"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "washing hands"
+
+      - question: "Which drink is best for hydration?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "glass of water"
+
+      - question: "Which body part helps you think?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Brain"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "brain diagram"
+
+      - question: "Which food helps you see better?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Carrots"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "carrots"
+
+      - question: "Which activity helps you grow taller and stronger?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Playing outside"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "children playing outside"
+
+      - question: "What should you brush twice a day?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Teeth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "brushing teeth"
+
+      - question: "What is important for keeping your body clean?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hygiene"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "personal hygiene"
+
+      - question: "Which activity helps your heart stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Running"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "children running"
+
+      - question: "What do you need to sleep well?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "child sleeping"
+
+      - question: "Which food is rich in protein?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eggs"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "eggs"
+
+      - question: "Which fruit is red and juicy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Apple"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "apple fruit"
+
+      - question: "What should you do after using the toilet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wash hands"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "washing hands"
+
+      - question: "Which food helps you grow strong muscles?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Meat"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "meat"
+
+      - question: "Which food is good for your teeth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Milk"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "milk"
+
+      - question: "Which body part helps you move your arms and legs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Muscles"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "muscles diagram"
+
+      - question: "Which food is good for eyesight?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Carrots"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "carrots eyesight"
+
+      - question: "Which activity keeps your mind fresh?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Reading"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "children reading"
+
+      - question: "What should you do if you feel sick?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "See a doctor"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "child visiting doctor"
+
+      - question: "Which drink should you avoid if you want healthy teeth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Soda"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "soda drink"
+
+      - question: "Which food helps your brain stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fish"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fish brain food"
+
+      - question: "Which fruit is orange and full of vitamin C?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Orange"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "orange fruit"
+
+      - question: "Which vegetable is green and healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Spinach"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "spinach"
+
+      - question: "What helps you fight germs and stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vitamins"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "vitamins food"
+
+      - question: "Which food is bad for your teeth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Candy"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "candy"
+
+      - question: "What do you need to drink every day to stay healthy?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "drinking water"
+
+      - question: "Which activity is good for your lungs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Running"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "children running"
+
+      - question: "Which food is good for your heart?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Vegetables"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "vegetables"
+
+      - question: "Which fruit is small, red, and sweet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Strawberry"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "strawberry"
+
+      - question: "Which activity helps you sleep better?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Relaxing before bed"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "child sleeping"

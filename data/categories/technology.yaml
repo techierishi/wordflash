@@ -1,0 +1,212 @@
+quizzes:
+  - category: "Technology Awareness"
+    questions:
+      - question: "What do we use to call someone far away?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Telephone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "telephone"
+
+      - question: "What device do we use to take photos?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Camera"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "camera"
+
+      - question: "Which device helps you watch videos at home?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Television"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "television"
+
+      - question: "What do we use to write on a computer?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Keyboard"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "computer keyboard"
+
+      - question: "Which device helps you move the cursor on a computer?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mouse"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "computer mouse"
+
+      - question: "Which device do we use to listen to music privately?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Headphones"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "headphones"
+
+      - question: "What device is used to connect to the internet wirelessly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wi-Fi router"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wifi router"
+
+      - question: "Which device do we use to play video games?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Game console"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "game console"
+
+      - question: "Which device do we use to read e-books?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tablet"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tablet device"
+
+      - question: "Which device helps you listen to music aloud at home?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Speaker"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "speaker"
+
+      - question: "Which device helps you scan documents?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Scanner"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "document scanner"
+
+      - question: "Which device helps you print papers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Printer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "printer"
+
+      - question: "Which device do we use to talk to someone through video?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer or smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "video call"
+
+      - question: "Which device helps you store files digitally?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "computer"
+
+      - question: "Which device do we use to browse the internet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer or smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "internet browsing"
+
+      - question: "Which device do we use to capture videos?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Video camera"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "video camera"
+
+      - question: "Which device helps you watch movies on the go?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Smartphone or tablet"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "smartphone tablet watching movies"
+
+      - question: "Which device helps you measure steps and heart rate?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Smartwatch"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "smartwatch"
+
+      - question: "Which device do we use to store music and videos?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Memory device or computer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "computer storage"
+
+      - question: "Which device helps you communicate with friends online?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer or smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "online communication"
+
+      - question: "Which device do we use to listen to stories or music in bed?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Headphones or earphones"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "headphones bed"
+
+      - question: "Which device is used to keep your food cold?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Refrigerator"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "refrigerator"
+
+      - question: "Which device do we use to cook food quickly?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Microwave"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "microwave oven"
+
+      - question: "Which device helps you listen to radio programs?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Radio"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "radio"
+
+      - question: "Which device do we use to make digital drawings?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tablet"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "drawing tablet"
+
+      - question: "Which device can connect many devices to the internet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Router"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "router"
+
+      - question: "Which device do we use to listen to music without wires?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Bluetooth speaker or wireless headphones"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wireless headphones bluetooth speaker"
+
+      - question: "Which device helps you take selfies?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Smartphone or camera"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "selfie smartphone"
+
+      - question: "Which device is used to cool a room?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fan or air conditioner"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fan air conditioner"
+
+      - question: "Which device helps you charge your phone?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Charger"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "phone charger"
+
+      - question: "Which device do we use to watch cartoons online?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer, tablet, or smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "watch cartoons online"
+
+      - question: "Which device helps you measure time?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Clock or watch"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "clock watch"
+
+      - question: "Which device do you use to read messages?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "smartphone messages"
+
+      - question: "Which device helps you write emails?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Computer or smartphone"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "writing email computer smartphone"
+
+      - question: "Which device helps you keep digital photos safe?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Memory card or cloud storage"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cloud storage memory card"

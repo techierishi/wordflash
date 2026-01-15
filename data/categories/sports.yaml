@@ -1,0 +1,188 @@
+quizzes:
+  - category: "Sports & Games"
+    questions:
+      - question: "Which sport is played with a bat and a ball on a field?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cricket"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cricket match"
+
+      - question: "Which sport uses a racket and a shuttlecock?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Badminton"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "badminton"
+
+      - question: "Which sport is played on ice with sticks and a puck?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ice hockey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ice hockey"
+
+      - question: "Which sport involves swimming, cycling, and running?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Triathlon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "triathlon"
+
+      - question: "Which sport is played with a ball and a hoop?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Basketball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "basketball hoop"
+
+      - question: "Which sport is played on a pitch with a ball and goalposts?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Football"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "football match"
+
+      - question: "Which sport is played in a pool with a ball and goals?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water polo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "water polo"
+
+      - question: "Which sport uses a long stick to hit a ball into a hole on grass?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Golf"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "golf"
+
+      - question: "Which sport is played on a table with paddles and a small ball?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Table tennis"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "table tennis"
+
+      - question: "Which sport is played on snow using skis?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Skiing"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "skiing"
+
+      - question: "Which sport is played with a ball and hands, scoring in a goal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Handball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "handball"
+
+      - question: "Which sport uses a bow to shoot arrows?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Archery"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "archery"
+
+      - question: "Which sport is played on a court with a ball bounced on the floor?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Basketball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "basketball court"
+
+      - question: "Which sport uses a racket and a ball over a net outdoors?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Tennis"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "tennis"
+
+      - question: "Which sport is played on a field with sticks and a small ball, popular in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hockey"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "field hockey"
+
+      - question: "Which sport is played by jumping over hurdles while running?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hurdles race"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "hurdles race"
+
+      - question: "Which sport is played on a mat with throws and holds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Wrestling"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "wrestling"
+
+      - question: "Which sport involves jumping into water from a platform or springboard?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Diving"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "diving"
+
+      - question: "Which sport uses a ball thrown into baskets at opposite ends?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Basketball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "basketball"
+
+      - question: "Which sport is played on a field with an oval ball in Australia?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Australian football"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Australian football"
+
+      - question: "Which sport is played on horseback with mallets?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Polo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "polo"
+
+      - question: "Which sport involves sliding stones on ice toward a target?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Curling"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "curling"
+
+      - question: "Which sport uses a ball and wickets on a field?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Cricket"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "cricket"
+
+      - question: "Which sport is played in water with a ball and swimming skills?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water polo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "water polo"
+
+      - question: "Which sport is played with a net and a balloon-like ball by children?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Volleyball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "volleyball"
+
+      - question: "Which sport is played in teams with a bat and bases?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Baseball"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "baseball"
+
+      - question: "Which sport is played on snow using boards?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Snowboarding"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "snowboarding"
+
+      - question: "Which sport is played with a ball and requires kicking it into a goal?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Football"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "football goal"
+
+      - question: "Which sport is played in a pool with floating goals?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water polo"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "water polo"
+
+      - question: "Which sport involves running and jumping over obstacles?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Track and field"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "track and field"
+
+      - question: "Which sport is played on ice with sticks and stones aiming for a target?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Curling"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "curling ice"

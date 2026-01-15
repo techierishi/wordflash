@@ -1,0 +1,218 @@
+quizzes:
+  - category: "History & Culture"
+    questions:
+      - question: "Who was the first President of the United States?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "George Washington"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "George Washington"
+
+      - question: "Who was the first Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jawaharlal Nehru"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Jawaharlal Nehru"
+
+      - question: "Which festival celebrates lights in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Diwali"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Diwali festival"
+
+      - question: "Which festival celebrates the birth of Jesus Christ?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Christmas"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Christmas"
+
+      - question: "Which festival marks the start of spring in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Holi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Holi festival"
+
+      - question: "Who is called the Father of the Nation in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mahatma Gandhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Mahatma Gandhi"
+
+      - question: "Which holiday celebrates Independence Day in the USA?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "4th of July"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "4th of July"
+
+      - question: "Which festival is famous for fireworks in China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chinese New Year"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Chinese New Year fireworks"
+
+      - question: "Which holiday honors soldiers who died in wars?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Memorial Day"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Memorial Day"
+
+      - question: "Who was known as the Iron Man of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sardar Vallabhbhai Patel"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Sardar Vallabhbhai Patel"
+
+      - question: "Which festival celebrates the harvest in the USA?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Thanksgiving"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Thanksgiving"
+
+      - question: "Which historical structure is in Egypt?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pyramids"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Egypt pyramids"
+
+      - question: "Who discovered America?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Christopher Columbus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Christopher Columbus"
+
+      - question: "Which Indian festival uses colorful powders?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Holi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Holi colors"
+
+      - question: "Which festival celebrates the New Year in Scotland?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Hogmanay"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Hogmanay Scotland"
+
+      - question: "Who fought for India’s independence?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Freedom fighters"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Indian freedom fighters"
+
+      - question: "Which ancient civilization built the Great Wall of China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chinese civilization"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Great Wall of China"
+
+      - question: "Who was the first woman Prime Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Indira Gandhi"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Indira Gandhi"
+
+      - question: "Which festival is famous in Germany for beer?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Oktoberfest"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Oktoberfest"
+
+      - question: "Which festival is known as the Festival of Lights?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Diwali"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Diwali lights"
+
+      - question: "Who was the first man to walk on the moon?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Neil Armstrong"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Neil Armstrong moon"
+
+      - question: "Which festival celebrates the full moon in Thailand?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Loi Krathong"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Loi Krathong Thailand"
+
+      - question: "Which historical leader gave the 'I Have a Dream' speech?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Martin Luther King Jr."
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Martin Luther King Jr."
+
+      - question: "Which famous ship sank in 1912?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Titanic"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Titanic ship"
+
+      - question: "Who invented the telephone?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Alexander Graham Bell"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Alexander Graham Bell"
+
+      - question: "Which festival celebrates the New Year in China?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Chinese New Year"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Chinese New Year"
+
+      - question: "Which Indian festival marks the start of harvest season?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Pongal"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Pongal festival"
+
+      - question: "Which famous landmark is in Italy and leans?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Leaning Tower of Pisa"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Leaning Tower of Pisa"
+
+      - question: "Which festival celebrates the victory of good over evil in India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dussehra"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dussehra festival"
+
+      - question: "Who was the first President of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Dr. Rajendra Prasad"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Dr. Rajendra Prasad"
+
+      - question: "Which festival in India involves kite flying?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Makar Sankranti"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Makar Sankranti festival"
+
+      - question: "Which holiday honors workers?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Labor Day"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Labor Day"
+
+      - question: "Which Indian festival is famous for lamps and sweets?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Diwali"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Diwali lamps sweets"
+
+      - question: "Which festival celebrates the birth of Buddha?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Buddha Purnima"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Buddha Purnima"
+
+      - question: "Which ancient civilization built the pyramids?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Egyptian civilization"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Egypt pyramids"
+
+      - question: "Who is called the Father of the American Nation?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "George Washington"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "George Washington"

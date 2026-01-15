@@ -1,6 +1,264 @@
 quizzes:
-  - category: "Solar System & Planets"
+  - category: "Earth & Space"
     questions:
+      - question: "Which planet do we live on?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Earth"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Earth"
+
+      - question: "What is the shape of the Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Round"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "round Earth globe"
+
+      - question: "What gives us light during the day?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Sun"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sun in sky"
+
+      - question: "What gives us light at night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "moon night sky"
+
+      - question: "What do we see in the sky at night that twinkles?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Stars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "stars night sky"
+
+      - question: "What do we call the movement of Earth around the Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Revolution"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth revolution around sun"
+
+      - question: "What do we call the spinning of Earth on its axis?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rotation"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth rotation"
+
+      - question: "How many planets are there in our solar system?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Eight"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "solar system planets"
+
+      - question: "Which planet is closest to the Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mercury"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Mercury"
+
+      - question: "Which planet is known as the Red Planet?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mars"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Mars"
+
+      - question: "Which planet is the biggest?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Jupiter"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Jupiter"
+
+      - question: "Which planet has rings around it?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Saturn"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Saturn rings"
+
+      - question: "Which planet is known as Earth’s twin?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Venus"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Venus"
+
+      - question: "Which planet is farthest from the Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Neptune"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet Neptune"
+
+      - question: "What do we call the group of planets and the Sun?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Solar system"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "solar system diagram"
+
+      - question: "What do we call a rock that falls from space?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Meteor"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "meteor falling"
+
+      - question: "What do we call the natural satellite of Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Moon"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "moon satellite"
+
+      - question: "What causes day and night?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Earth’s rotation"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "day night earth rotation"
+
+      - question: "What causes seasons?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Earth’s revolution"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "seasons earth revolution"
+
+      - question: "Which layer of Earth is where we live?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Crust"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth crust layer"
+
+      - question: "What covers most of the Earth’s surface?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Water"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth water surface"
+
+      - question: "What do we call very high land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Mountains"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "mountain landscape"
+
+      - question: "What do we call flat land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Plains"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "plains land"
+
+      - question: "What do we call land surrounded by water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Island"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "island"
+
+      - question: "What do we call a large body of salt water?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ocean"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ocean"
+
+      - question: "What do we call flowing water on land?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "River"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "river"
+
+      - question: "What do we call land covered with sand?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Desert"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "desert sand"
+
+      - question: "What do we call frozen water at the poles?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ice"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "polar ice"
+
+      - question: "Which direction does the Sun rise from?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "East"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sunrise east"
+
+      - question: "Which direction does the Sun set in?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "West"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "sunset west"
+
+      - question: "What do we call the air around Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Atmosphere"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earth atmosphere"
+
+      - question: "What protects Earth from harmful Sun rays?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Ozone layer"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "ozone layer"
+
+      - question: "What do we call a place where lava comes out?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Volcano"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "volcano eruption"
+
+      - question: "What do we call shaking of the Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Earthquake"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "earthquake"
+
+      - question: "What do we call clouds touching the ground?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Fog"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "fog"
+
+      - question: "What do we call a rainbow made of light and rain?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rainbow"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "rainbow sky"
+
+      - question: "What do we call stones from space found on Earth?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Meteorites"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "meteorite"
+
+      - question: "What tool do astronauts use to travel to space?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rocket"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "space rocket"
+
+      - question: "Who travels to space?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Astronaut"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "astronaut"
+
+      - question: "What do we call a group of stars forming shapes?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Constellation"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "constellation stars"
+
+      - question: "What do we call the path of planets?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Orbit"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "planet orbit"
+
+      - question: "Which planet is known for strong winds?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Neptune"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Neptune planet"
+
+      - question: "What do we call the bright object with a tail in the sky?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Comet"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "comet sky"
+
       - question: "What is the largest planet in our solar system?"
         question_media: {text: true, audio: true, image: false}
         answer: "Jupiter"
