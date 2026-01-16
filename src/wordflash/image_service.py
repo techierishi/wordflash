@@ -53,34 +53,23 @@ class ImageService:
                         tmp.write(response.content)
                         tmp_path = tmp.name
 
-                    approved = self._show_image_for_approval(tmp_path, word, attempt)
+                    approval = self._show_image_for_approval(tmp_path, word, attempt)
 
-                    if approved:
+                    if approval == 1:
                         image_path.parent.mkdir(parents=True, exist_ok=True)
                         with open(image_path, "wb") as f:
                             f.write(response.content)
                         Path(tmp_path).unlink()
                         return str(image_path)
+                    elif approval == -1:
+                        Path(tmp_path).unlink()
+                        print(f"  ✗ Skipping Pixabay")
+                        return self._get_image_from_clipboard(word, image_path)
                     else:
                         Path(tmp_path).unlink()
                         if attempt == len(image_urls):
                             print(f"  ✗ No images approved from Pixabay")
-                            self._open_google_search(word)
-                            print(f"  Browser opened with Google search for '{word}'")
-                            time.sleep(1)
-                            clipboard_url = input("  Paste image URL from clipboard (or press Enter to skip): ").strip()
-                            if clipboard_url:
-                                try:
-                                    clip_response = requests.get(clipboard_url, timeout=30, headers=headers)
-                                    if clip_response.status_code == 200:
-                                        image_path.parent.mkdir(parents=True, exist_ok=True)
-                                        with open(image_path, "wb") as f:
-                                            f.write(clip_response.content)
-                                        print(f"  ✓ Image saved from clipboard")
-                                        return str(image_path)
-                                except Exception as e:
-                                    print(f"  ✗ Failed to download from clipboard: {e}")
-                            return None
+                            return self._get_image_from_clipboard(word, image_path)
                         continue
                 except Exception as e:
                     print(f"  Error processing image {attempt}: {e}")
@@ -92,26 +81,47 @@ class ImageService:
             print(f"Failed to download image for '{word}': {e}")
             return None
 
+    def _get_image_from_clipboard(self, word: str, image_path: Path) -> Optional[str]:
+        self._open_google_search(word)
+        print(f"  Browser opened with Google search for '{word}'")
+        time.sleep(1)
+        clipboard_url = input("  Paste image URL from clipboard (or press Enter to skip): ").strip()
+        if clipboard_url:
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            try:
+                clip_response = requests.get(clipboard_url, timeout=30, headers=headers)
+                if clip_response.status_code == 200:
+                    image_path.parent.mkdir(parents=True, exist_ok=True)
+                    with open(image_path, "wb") as f:
+                        f.write(clip_response.content)
+                    print(f"  ✓ Image saved from clipboard")
+                    return str(image_path)
+            except Exception as e:
+                print(f"  ✗ Failed to download from clipboard: {e}")
+        return None
+
     def _show_image_for_approval(
         self, image_path: str, search_term: str, attempt: int
-    ) -> bool:
+    ) -> int:
         print(f"\n  Showing image {attempt}...")
         self._open_image(image_path)
 
         while True:
             approval = (
-                input(f"  Approve this image for '{search_term}'? (y/n/skip): ")
+                input(f"  Approve this image for '{search_term}'? (y/n/s): ")
                 .strip()
                 .lower()
             )
             if approval == "y":
-                return True
+                return 1
             elif approval == "n":
-                return False
-            elif approval == "skip":
-                return False
+                return 0
+            elif approval == "s":
+                return -1
             else:
-                print("  Enter 'y', 'n', or 'skip'")
+                print("  Enter 'y', 'n', or 's' for skip.")
 
     def _open_image(self, image_path: str) -> None:
         system = platform.system()
