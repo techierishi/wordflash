@@ -15,15 +15,21 @@ quizzes:
 
       - question: "Who is the Prime Minister of Japan?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Shigeru Ishiba"
+        answer: "Sanae Takaichi"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "Japan Prime Minister"
+        answer_image_search_term: "Sanae Takaichi Japan Prime Minister"
 
       - question: "Who is the Chancellor of Germany?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Olaf Scholz"
+        answer: "Friedrich Merz"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "Olaf Scholz Germany"
+        answer_image_search_term: "Friedrich Merz Germany"
+        
+      - question: "Who is the President of Germany?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Frank-Walter Steinmeier"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Frank-Walter Steinmeier Germany President"
 
       - question: "Who is the Prime Minister of India?"
         question_media: {text: true, audio: true, image: false}
@@ -31,11 +37,17 @@ quizzes:
         answer_media: {text: true, audio: true, image: true}
         answer_image_search_term: "Narendra Modi India"
 
+      - question: "Who is the President of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Droupadi Murmu"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Droupadi Murmu President of India"
+
       - question: "Who is the Prime Minister of the United Kingdom?"
         question_media: {text: true, audio: true, image: false}
         answer: "Keir Starmer"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "UK Prime Minister"
+        answer_image_search_term: "Keir Starmer UK Prime Minister"
 
       - question: "Who is the President of France?"
         question_media: {text: true, audio: true, image: false}
@@ -47,17 +59,34 @@ quizzes:
         question_media: {text: true, audio: true, image: false}
         answer: "Luiz Inácio Lula da Silva"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "Brazil President"
+        answer_image_search_term: "Luiz Inacio Lula da Silva Brazil"
 
       - question: "Who is the Prime Minister of Canada?"
         question_media: {text: true, audio: true, image: false}
-        answer: "Justin Trudeau"
+        answer: "Mark Carney"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "Justin Trudeau Canada"
+        answer_image_search_term: "Mark Carney Canada Prime Minister"
 
       - question: "Who is the President of Italy?"
         question_media: {text: true, audio: true, image: false}
         answer: "Sergio Mattarella"
         answer_media: {text: true, audio: true, image: true}
-        answer_image_search_term: "Italy President"
+        answer_image_search_term: "Sergio Mattarella Italy President"
 
+      - question: "Who is the India Minister Home Affairs of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Amit Shah (Home Affairs & Cooperation)"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Amit Shah"
+
+      - question: "Who is the Defence Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Rajnath Singh (Defence)"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Rajnath Singh"
+
+      - question: "Who is the Finance Minister of India?"
+        question_media: {text: true, audio: true, image: false}
+        answer: "Nirmala Sitharaman (Finance & Corporate Affairs)"
+        answer_media: {text: true, audio: true, image: true}
+        answer_image_search_term: "Nirmala Sitharaman"
